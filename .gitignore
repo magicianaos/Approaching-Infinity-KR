@@ -1,0 +1,14 @@
+# 게임 원본 파일 (저작권 — 절대 올리지 말 것)
+game/*
+!game/README.md
+*.byc
+AI_EN_original.zip
+
+# 빌드 결과물 (배포 zip은 GitHub Releases에 올림)
+out/
+
+# 기타
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,360 @@
+﻿id,en,ko
+364, ADJ:, 인접:
+365, NOK:, 넉백:
+366, SPD:, 속도:
+491,some,
+503,DMG:,피해:
+2897,DM:,피해:
+2898,RN:,사거리:
+2899,CD:,대기:
+2900,PD:,요격:
+2901,SU:,소모:
+2902,DUR:,내구:
+2903,SHE:,보호막:
+2904,RCH:,충전:
+2905,ARM:,장갑:
+2906,SPD:,속도:
+2907,TGT:,조준:
+2908,SCN:,스캔:
+2909,EV:,회피:
+2910,SUP:,소모:
+2911,WEP:,무기:
+2912,DEV:,장치:
+2913,ADJ:,인접:
+2914,NOK:,넉백:
+2916, OX:, 산소:
+2917, VIS:, 시야:
+2918, ER:, 내성:
+2919,OX:,산소:
+2920,VIS:,시야:
+2921,ER:,내성:
+3871,DMG: ,피해: 
+3874,   CD:,   대기:
+3876,   RN:,   사거리:
+4070,Abandon,버리기
+4980,Learn,시세 파악
+7898,Burn,연료로 태우기
+9823,] RN:,] 사거리:
+9824, CD:, 대기:
+9825, PD:, 요격:
+9826, SU:, 소모:
+9829, RCH:, 충전:
+9830, TGT:, 조준:
+9831, SCN:, 스캔:
+9832, SUP:, 소모:
+9833, DEV:, 장치:
+9834, RN:, 사거리:
+11671,    RNG:,    사거리:
+11672,    CD:,    대기:
+11673,    PD:,    요격:
+11674,    SUP:,    소모:
+777,a ,
+780, that ,입니다. 이것이 
+997, with ,에게 
+996,Attacking ,
+1244,Firing ,
+822,The ,
+2688,Load Game,게임 불러오기
+3157,move delay,이동 지연
+3164,gamble,도박
+3199,get ff buttons,역장 버튼 획득
+3237,sound effects volume,효과음 음량
+3239,music volume,음악 음량
+3241,auto-install,자동 설치
+3244,auto-scan,자동 스캔
+3248,classic ui,클래식 ui
+3253,send anon. data,익명 데이터 전송
+3312,ignore illegal,불법 무시
+2763,auto-explore,자동 탐사
+3318,text animation,텍스트 애니메이션
+170,Done Checking File Sizes,Done Checking File Sizes
+171,Loading Images,Loading Images
+172,Loading Keys,Loading Keys
+173,Loading Terrains,Loading Terrains
+174,Loading Commodities,Loading Commodities
+175,Loading Devices,Loading Devices
+176,Loading Monsters,Loading Monsters
+177,Loading Races,Loading Races
+178,Loading Sounds,Loading Sounds
+179,Verifying Starting Ships,Verifying Starting Ships
+180,Loading Effects,Loading Effects
+181,Loading Skills,Loading Skills
+182,Loading Achievements 1,Loading Achievements 1
+183,Loading Achievements 2,Loading Achievements 2
+184,Loading Achievements 3,Loading Achievements 3
+185,Loading Hand Weapons,Loading Hand Weapons
+186,Furniture?!,Furniture?!
+187,Supplemental Items,Supplemental Items
+191,Verifying Checksum,Verifying Checksum
+6872,EXPLOSIONS!,EXPLOSIONS!
+6882,...Various...,...Various...
+6883,Black Ooze,Black Ooze
+6866,Loading Images Part ,Loading Images Part 
+928,Loading Monsters ,Loading Monsters 
+1698, and , 및 
+4214,"Gen,HP,Oxy,Vis,Spd,Res,Upg,Fut","Gen,HP,Oxy,Vis,Spd,Res,Upg,Fut"
+3148,mini-map,미니맵
+2710,/Officer,/Officer
+10510,"Up,Right,Down,Left","Up,Right,Down,Left"
+5697,Set,Set
+9381,Canyon,Canyon
+9384,Cave,Cave
+11176,"Knife,Sword,Hammer","Knife,Sword,Hammer"
+8650,Crater,Crater
+6875,Summon,Summon
+6880,Poof,Poof
+6864,Black Star,Black Star
+6961,Ship Wall Damaged,Ship Wall Damaged
+9344,Agnostic Wall ,Agnostic Wall 
+1243, at ,", 좌표 "
+756,Asteroids are known to be rich in ,소행성은 
+758,"Mine asteroids, and retrieve ",소행성을 채굴해 샘플 
+759, samples of ,개를 회수하세요: 
+760,Thank you for collecting ,
+763,Sector ,섹터 
+764, is rich in natural,에는 천연
+765,deposits of ,
+767, and return them.,개를 채집해 가져오세요.
+770,Mysterious Anomaly,수수께끼의 이상 현상
+771,Travel to sector ,섹터 
+772, and,에 가서
+773,locate a ,
+786,A certain planet in sector ,섹터 
+787, has a,의 한 행성에
+788,species of ,저희가 이용하려는 
+789, that we wish to exploit., 종이 있습니다.
+790,Travel there and collect ,그곳에 가서 샘플 
+791, samples.,개를 채집하세요.
+792,rabble,하층민
+793,We believe it will be effective in treating ,이것은 
+794, among the , 치료에 효과가 있을 것으로 보입니다(대상: 
+795,. This will increase our pharmaceuticals income.,). 저희 제약 수입이 늘어나겠군요.
+797,A planet in sector ,섹터 
+798, is infested,의 한 행성에
+799,with ,
+800,.`Kill Them.`, 무리가 들끓고 있습니다.`처치하세요.`
+802,You will receive coordinates upon arrival.,도착하면 좌표를 받게 됩니다.
+803,Thank you for killing all those ,
+804,Now we can use that planet,이제 그 행성을 이렇게 쓸 수 있겠군요:
+815,We wish to utilize a planet in sector ,저희가 활용하려는 행성이 섹터 
+819,"Right now, it looks like the perfect place","지금 보니, 이곳은 이런 용도로 딱이겠군요:"
+820,for a forced labor camp.,강제 노동 수용소 부지로.
+823,s in sector , 무리가 섹터 
+824,are hampering our business efforts.,지역에서 저희 사업을 방해하고 있습니다.
+826,By removing those ,
+828,you have cleared the way for our vast trade empire,저희 광대한 교역 제국으로 가는 길을 열어 주셨습니다.
+833,Explore underground caverns on planets in sector ,섹터 
+834,Excellent! Your scans turned up some promising deposits of ,훌륭합니다! 스캔 결과 유망한 
+837, are causing us trouble in sector , 세력이 섹터 
+838,Please send a message by destroying ,본때를 보여 주세요. 그들의 함선 
+839, of their ships.,척을 격파하세요.
+840,If you are not comfortable with killing ,
+841, then do not accept this contract., 세력을 죽이는 것이 꺼려진다면 이 계약을 수락하지 마십시오.
+847,There is an open contract for the retrieval of ID badges,신분증 회수에 관한 공개 계약이 있습니다.
+848,from the crew of derelict vessels in sector ,"대상은 버려진 선박의 선원들이며, 위치는 섹터 "
+849,"Travel there, search the dead, and collect at least ",그곳으로 가서 시신을 수색해 신분증을 최소 
+855,"Special 'gas giant data' items will spawn, and represent analysis results. Collect ","특수 '가스 행성 데이터' 아이템이 생성되며, 분석 결과를 나타냅니다. "
+856, of them and return. `,개를 모아서 돌아오세요. `
+861,We require you to intercept communications from`the ,
+862, embassy in sector , 대사관(섹터 
+864, and return. `,개를 수집한 뒤 돌아오세요. `
+963,Gruff Hunt-Leader turned ,그러프 사냥 대장의 요리: 
+964, into , → 식량 
+965, food!,!
+473,Click self or press Enter,자신을 클릭하거나 Enter를 누르세요
+513,Red Honey!,붉은 꿀!
+676,Supplies Full!,보급품 가득!
+3645,Warp! &14 ,워프! &14 
+5857,The message is garbled and makes no sense.,메시지가 뒤죽박죽이라 알아볼 수 없습니다.
+6159,Artifact blast wave!,유물 폭발파!
+6255,You moved!,움직였잖아!
+6256,What happened to our hiding place?!,우리 은신처가 어떻게 된 거야?!
+7116,Blow it up for parts,분해해서 부품 얻기
+7117,Tow it to a station,정거장으로 견인
+7118,Use it as your own ship!,내 함선으로 사용!
+8705,Artifact Destroyed!,유물 파괴됨!
+7020, gains +, +
+7019,The captain gains +,함장 +
+7023,All officers ,모든 
+7024,gain ,장교 +
+7022,on the away team ,상륙조 
+5456, fires ,의 
+1679, badly , 심하게 
+1680, gravely , 치명적으로 
+1127, by , - 가해자: 
+1045, on , - 
+9238,"destroyed,raided,blew up,looted,cleaned out,narrowly escaped,explored,plundered","파괴,습격,폭파,약탈,싹쓸이,간신히 탈출,탐사,노략질"
+1647, data, 데이터
+1648, gadgets, 가젯
+1650, device, 장치
+1754, underground, 지하
+3128, are ,: 
+6097, depth , 깊이 
+6456, system, 시스템
+7098, rep , 평판 
+7857, slot, 슬롯
+8596, damage, 피해
+10685,ships,함선
+11167, faction, 세력
+2402, light, 빛
+2407, stars, 항성
+3420, officers,명의 장교
+3423, crew,명의 선원
+8281,"lia,tia,zia,tos,zos,nos,lis,ria,ros,lon,ron,rox,vin,din,zin","리아,티아,지아,토스,조스,노스,리스,리아,로스,론,론,록스,빈,딘,진"
+7606,"x,s,n,t,lia,tia,zia,tos,zos,nos","크스,스,은,트,리아,티아,지아,토스,조스,노스"
+7783,"gami,dele,veni,rofe,vugo,nora,suni,tini,cyco,meru,rino,nani,tira,ruvo,noni,dura,zequ,leko,hani,zala,geti,lavo,roke,joxi,vego,loro,lifi,faxo,fira,soyu,boci,leca,huke,mili,biri,ledi,yevi,rani,nifa,rapi","가미,델레,베니,로페,부고,노라,수니,티니,시코,메루,리노,나니,티라,루보,노니,두라,제쿠,레코,하니,잘라,제티,라보,로케,족시,베고,로로,리피,팍소,피라,소유,보시,레카,후케,밀리,비리,레디,예비,라니,니파,라피"
+7705,"e,d,a,o,i,m,z,l,o,t,r,u,k,n,j,y,h,w,b,p,v,c,f,s,s,s","에,드,아,오,이,음,즈,을,오,트,르,우,크,은,지,이,흐,우,브,프,브,크,프,스,스,스"
+7706,"ar,har,yar,o,a,ho,yo,ah,oy,y,t,boo,ho,ha,er,ur,ya,ar,har,yar,yo,ho,a,shi,ah,oy","아르,하르,야르,오,아,호,요,아,오이,이,트,부,호,하,에르,우르,야,아르,하르,야르,요,호,아,시,아,오이"
+7708,"u,g,o,uf,ug,ru,fu,su,u,b,g,a,ux,y,q,o,d,k,m,t,t,p,kv,g,s,i","우,그,오,우프,욱,루,푸,수,우,브,그,아,욱스,이,크,오,드,크,음,트,트,프,크브,그,스,이"
+7709,"sa,ta,la,si,ti,li,tha,thu,thee,sha,shu,shee,ha,hu,hee,na,nu,nee,sla,slu,slee,xa,xu,xee,sza,szu","사,타,라,시,티,리,타,투,티,샤,슈,시,하,후,히,나,누,니,슬라,슬루,슬리,크사,크수,크시,스자,스주"
+7710,"a,m,i,ia,o,l,v,n,y,ss,h,e,w,ay,vl,u,al,t,r,p,f,ej,k,ax,qu,ee","아,음,이,이아,오,을,브,은,이,스,h,에,우,아이,블,우,알,트,르,프,프,에지,크,악스,쿠,이"
+7712,"o,m,o,u,u,n,gr,oo,l,g,n,o,f,gu,m,u,mu,f,g,a,a,n,w,ou,pb,bu","오,음,오,우,우,은,그르,우,을,그,은,오,프,구,음,우,무,프,그,아,아,은,우,우,프브,부"
+7713,"bi,bu,de,di,ba,da,bo,do,go,ga,ge,gu,by,dy,pa,po,da,qi,qy,qo,qu,qa,za,zo,zi,zu","비,부,데,디,바,다,보,도,고,가,제,구,비,디,파,포,다,키,키,코,쿠,카,자,조,지,주"
+7714,"faxo,mili,noni,dura,zequ,leko,gami,dele,veni,vugo,yevi,rapi,nora,meru,nani,ruvo,hani,zala,geti,lavo,joxi,vega,loro,lifi,biri,tira","팍소,밀리,노니,두라,제쿠,레코,가미,델레,베니,부고,예비,라피,노라,메루,나니,루보,하니,잘라,제티,라보,족시,베가,로로,리피,비리,티라"
+7716,"om,eh,am,ah,ay,f,ee,l,v,r,ohr,a,la,va,ra,oo,u,ma,ga,pa,ha,ho,hi,ov,ez,ehl","옴,에,암,아,아이,프,이,을,브,르,오르,아,라,바,라,우,우,마,가,파,하,호,히,오브,에즈,엘"
+7719,"o,s,u,a,e,h,s,s,n,p,aw,i,t,n,s,in,m,g,f,v,i,f,ua,s,ie,g","오,스,우,아,에,h,스,스,은,프,아우,이,트,은,스,인,음,그,프,브,이,프,우아,스,이에,그"
+7725,"no,gi,ro,ma,ga,chi,do,si,co,ti,di,lu,ca,da,ni,se,va,ri,pri,ni,po,acca,izza,usso,icci,etti","노,지,로,마,가,키,도,시,코,티,디,루,카,다,니,세,바,리,프리,니,포,아카,이자,우소,이시,에티"
+7726,"no,gi,ro,ma,ga,chi,do,si,co,ti,di,lu,ca,da,ni,sa,va,ri,pri,ni,po,acca,izza,usso,icci,etti","노,지,로,마,가,키,도,시,코,티,디,루,카,다,니,사,바,리,프리,니,포,아카,이자,우소,이시,에티"
+7727,"no,gi,ro,ma,ga,chi,do,si,co,ti,di,lu,ca,da,ni,sa,va,ri,pi,ni,po,acca,izza,usso,icci,etti","노,지,로,마,가,키,도,시,코,티,디,루,카,다,니,사,바,리,피,니,포,아카,이자,우소,이시,에티"
+7728,"no,gi,ro,ma,ga,chi,do,si,co,ti,di,lu,ca,da,ni,sa,vala,ri,pi,ni,po,acca,izza,usso,icci,etti","노,지,로,마,가,키,도,시,코,티,디,루,카,다,니,사,발라,리,피,니,포,아카,이자,우소,이시,에티"
+7729,"ma,tu,ga,re,na,so,pa,li,my,no,du,ro,ze,li,ji,she,nu,ra,ki,su,de,wu,mo,ni,zo,cha","마,투,가,레,나,소,파,리,미,노,두,로,제,리,지,세,누,라,키,수,데,우,모,니,조,카"
+7730,"ya,hei,wo,wei,chi,coo,yu,do,who,","야,헤이,워,웨이,키,쿠,유,도,우호,"
+7731,"sla,bla,sni,sri,sma,sti,sra,ski,kli,dri,sta","슬라,블라,스니,스리,스마,스티,스라,스키,클리,드리,스타"
+7732,"blu,bu,ru,bur,rub,glu,gu,blub,glub,b',g',pu,zu,lu,ju,shu,nu,ro,ko,su,do,wu,mo,nu,zo,chu","블루,부,루,부르,룹,글루,구,블룹,글룹,브,그,푸,주,루,주,슈,누,로,코,수,도,우,모,누,조,쿠"
+7720,"kilo ,lima ,mike ,papa ,echo ,golf ,xray ,zulu ,alpha ,bravo ,delta ,oscar ,hotel ,india ,tango ,romeo ,juliet ,foxtrot ,victor ,sierra ,yankee ,whiskey ,uniform ,charlie ,quebec ,november","킬로 ,리마 ,마이크 ,파파 ,에코 ,골프 ,엑스레이 ,줄루 ,알파 ,브라보 ,델타 ,오스카 ,호텔 ,인디아 ,탱고 ,로미오 ,줄리엣 ,폭스트롯 ,빅터 ,시에라 ,양키 ,위스키 ,유니폼 ,찰리 ,퀘벡 ,노벰버"
+7733,"Ho,ho,ho ,HO,HO! ,hoho,ho ho,Ho,Hoho,HOHO! ,ho,ho,ho,hoHO! ,Ho ho! ,hohoho,ho. ,Ho. ,HO. ,HO HO,ho! , ho , ho ho., ho? , Ho? , HO?! ","호,호,호 ,호,호! ,호호,호 호,호,호호,호호! ,호,호,호,호호! ,호 호! ,호호호,호. ,호. ,호. ,호 호,호! , 호 , 호 호., 호? , 호? , 호?! "
+7718,"Gnaw,Gnash,Chomp,Bite,Chew,Scrape,Crunch,Grind,Buzz,Rip,Crash,Clang,Crack,Throb,Rattle,Bang,Screech,Crackle,Pulse,Blast,Roar,Rumble,Grumble,Crumble,Clank,Clatter,Boom","갉작,으드득,와작,콱,질겅,긁적,바삭,드르륵,윙윙,찌익,쾅,쨍,딱,욱신,덜그럭,탕,끼익,타닥,두근,펑,으르렁,우르릉,투덜,와르르,철컥,달그락,쿵"
+225,Star Temple!,별 사원!
+2379,The Second Sector Succumbs!,두 번째 섹터의 함락!
+2386,Follow That Ship!,저 함선을 쫓아라!
+4916,OBLIVION!,망각이여!
+10562,Finding The Amulet of Yendor,옌더의 아뮬렛 찾기
+2508,NANO-STRUCTURE!,나노 구조체!
+4064,I found something!,뭔가 찾았어요!
+10925,Our archaelogical expedition went into the,우리 고고학 탐사대가 동굴에 들어갔어요
+4037,", &04 LEMON!",", &04 불량품!"
+4147,The shuttle will be ready for take-off in ,울트라 메가 떼
+8338,Auto-Repair,자동 수리
+1343,Nano-Structure,나노 구조체
+585,We've transmitted the latest,최신 연구 결과를`섹터 3의 동맹에게 전송했어요.`
+3911,No known,휴대한 무기에 
+4681,You will start with these,다음 `
+7657,1;The Forgotten Battleground;1;7;PlanetNamesSpaces.txt;A great war was fought and lost here long ago.``Now a handful of alien factions vie for control`of the few remaining resources:``Opportunistic space pirates and the belligerent 'Gruff' are thorns in the side of the Bankers' trade empire and their Sigorn servants.``A criminal syndicate is trying to establish a foothold nearby...,"1;잊힌 전장;1;7;PlanetNamesSpaces.txt;오래전 이곳에서 거대한 전쟁이 벌어졌고, 패배로 끝났습니다.``이제 한 줌의 외계 세력들이 얼마 남지 않은 자원을`차지하려고 다투고 있습니다:``기회주의적인 우주 해적과 호전적인 '그러프'는 뱅커의 교역 제국과 그들의 하수인 시고른에게 눈엣가시입니다.``한 범죄 신디케이트가 근처에 거점을 마련하려 하고 있습니다..."
+7658,"2;The Fringe Cluster;8;33;PlanetNamesGeneral.txt;Planets are somewhat more plentiful in this isolated group of stars.``The human resistance is gathering allies.`A variety of aliens are trying to make their home here, even though the Limoquee are waging war against the Vordalene.``Dunwiigu Monks follow their holy quest single-mindedly, while rumors say sinister forces are moving in...","2;변방 성단;8;33;PlanetNamesGeneral.txt;이 고립된 항성 무리에는 행성이 좀 더 많습니다.``인류 저항군이 동맹을 모으고 있습니다.`리모퀴가 보르달린과 전쟁을 벌이고 있는데도 여러 외계인이 이곳에 터전을 잡으려 합니다.``던위구 수도승들은 오로지 성스러운 탐구에만 매진하고, 불길한 세력이 몰려오고 있다는 소문이 돕니다..."
+7659,3;The Nightspan Void;34;43;PlanetNamesShort.txt;A barren zone separates more densely populated areas. Supplies dwindle in this interstellar wasteland. Who knows what alien factions hold sway here?,3;나이트스팬 공허;34;43;PlanetNamesShort.txt;척박한 지대가 인구가 밀집한 지역들을 갈라놓고 있습니다. 이 성간 황무지에서는 보급품이 줄어듭니다. 이곳을 어떤 외계 세력이 장악하고 있는지 누가 알겠습니까?
+7660,4;The Stellar Aggregate;51;65;PlanetNamesLong.txt;A rich and tighly-packed sprawl of stars.,4;항성 집적대;51;65;PlanetNamesLong.txt;빽빽하게 들어찬 풍요로운 항성들의 무리입니다.
+7661,5;The XenoCouncil's Assembly;66;80;Planam_xenocouncil.txt;A great galactic governement once ruled here. No more.,5;제노의회의 회합지;66;80;Planam_xenocouncil.txt;한때 거대한 은하 정부가 이곳을 다스렸습니다. 이제는 아닙니다.
+7662,6;The Encroaching Lacuna;81;95;PlanetNamesShort.txt;Desolation ahead. Pass quickly and watch your supplies.,6;잠식하는 공백;81;95;PlanetNamesShort.txt;앞은 황량합니다. 빨리 지나가고 보급품을 잘 살피세요.
+7663,7;The Great Boundary;96;124;PlanetNamesGeneral.txt;A mere smattering of stars compared to the galactic core beyond.,7;거대한 경계;96;124;PlanetNamesGeneral.txt;저 너머의 은하 중심부에 비하면 항성이 드문드문할 뿐입니다.
+7664,8;The Astral Expanse;125;900;PlanetNames.txt;A density and diversity of stellar bodies previously unimagined.,8;별의 광야;125;900;PlanetNames.txt;지금껏 상상도 못 한 밀도와 다양성을 지닌 천체들입니다.
+7665,9;The Unprecedented Void;901;1099;PlanetNamesShort.txt;An emptyness like no other.``No faction calls this home.``No stations lie within.,9;전례 없는 공허;901;1099;PlanetNamesShort.txt;다른 무엇과도 비할 수 없는 텅 빈 곳입니다.``이곳을 고향으로 삼는 세력은 없습니다.``정거장도 없습니다.
+7666,10;The Bright Path;1100;1999999999;PlanetNames.txt;A meandering stellar track that leads onward to the galactic core.,10;찬란한 길;1100;1999999999;PlanetNames.txt;은하 중심부로 이어지는 구불구불한 항성의 길입니다.
+10991,role=500^pers=1^step=0^~You're not who I was expecting. How did you get my package? ^#I found it among the remains of a poor unfortunate soul...=2 ^#I killed your courier and I took it!=1 ^#Does that really matter? I brought it to you.=2,role=500^pers=1^step=0^~기다리던 사람이 아니시네요. 제 소포를 어떻게 손에 넣으셨죠? ^#어느 불쌍한 사람의 유해 속에서 찾았어요...=2 ^#당신 배달부를 죽이고 빼앗았어요!=1 ^#그게 중요해요? 가져다드렸잖아요.=2
+10992,"role=500^pers=1^step=1^~I guess they weren't as tough as I thought. Maybe you'd like to be their replacement? I'm looking for something... ^#Depends what the job is=4 ^#No, I'm out of here=3","role=500^pers=1^step=1^~생각만큼 센 녀석은 아니었나 보군요. 그럼 그 대신 일해 보실래요? 찾는 게 있거든요... ^#무슨 일인지에 따라서요=4 ^#싫어요, 전 이만 갈게요=3"
+10993,"role=500^pers=1^step=2^~Thank you for bringing it to me. I'll pay you. But let's talk more. I need someone capable like you to help me find something valuable. ^#Depends what the job is=4 ^#No, I'm out of here=3","role=500^pers=1^step=2^~가져다주셔서 고마워요. 보수는 드릴게요. 그런데 얘기를 좀 더 하죠. 값진 걸 찾는 데 당신처럼 유능한 분의 도움이 필요해요. ^#무슨 일인지에 따라서요=4 ^#싫어요, 전 이만 갈게요=3"
+10994,"role=500^pers=1^step=3^~Come back if you change your mind, I've set up a small base here. ^#OK=4>end",role=500^pers=1^step=3^~마음이 바뀌면 다시 오세요. 여기 작은 기지를 차려 뒀어요. ^#알겠어요=4>end
+10995,"role=500^pers=1^step=4^~I'm @LGND.RelicHunterName the Relic Hunter.`I've been following the trail of the @LGND.ItemName for a long time now, and I'm getting close to finding it. ^#That's exciting!=5 ^#I'm not interested in that.=3","role=500^pers=1^step=4^~저는 유물 사냥꾼 @LGND.RelicHunterName 이에요.`오랫동안 @LGND.ItemName 의 흔적을 쫓아왔는데, 이제 거의 다 찾아가고 있어요. ^#흥미진진하네요!=5 ^#그런 데는 관심 없어요.=3"
+10996,"role=500^pers=1^step=5^~All right, let me look over the information you've just brought me... ^#OK=6","role=500^pers=1^step=5^~좋아요, 방금 가져다주신 정보를 좀 살펴볼게요... ^#알겠어요=6"
+10997,role=500^pers=1^step=6^~Just as I thought!`The @LGND.ItemName was created long ago by a @LGND.CreatorQuality @LGND.CreatorRace @LGND.CreatorOccupation called @LGND.CreatorName. ^#Go on...=7,role=500^pers=1^step=6^~역시 생각대로예요!`@LGND.ItemName 은(는) 오래전 @LGND.CreatorQuality @LGND.CreatorRace @LGND.CreatorOccupation @LGND.CreatorName 이(가) 만든 거예요. ^#계속해요...=7
+11007,role=500^pers=1^step=9^~Have you searched the wreckage on the planet's surface yet? ^#I'm still looking=9>end ^?qred#I have the final reports!=10>tiqu ^?!qst#Wait what?=9>quest=18101>end,role=500^pers=1^step=9^~행성 지표의 잔해는 뒤져 보셨어요? ^#아직 찾는 중이에요=9>end ^?qred#마지막 보고서를 찾았어요!=10>tiqu ^?!qst#네? 뭐라고요?=9>quest=18101>end
+11017,"role=500^pers=1^step=8^~The colony is abandoned now, some type of ecological disaster... but this prized possession may have been the subject of images, writing, or other accounts. Go see if you can find any trace of it. ^#I'll go right away=9>quest=18102>end","role=500^pers=1^step=8^~그 식민지는 지금 버려졌어요. 무슨 생태 재앙이 있었대요... 하지만 이 귀중품이 그림이나 글, 다른 기록에 남아 있을지도 몰라요. 흔적이 있는지 가서 찾아봐 주세요. ^#바로 가 볼게요=9>quest=18102>end"
+11018,role=500^pers=1^step=9^~Any luck investigating the ruins? ^#Nothing yet...=9>end ^?qred#Look what I found!=10>tiqu ^?!qst#Wait what?=9>quest=18102>end,role=500^pers=1^step=9^~폐허 조사는 좀 진척이 있어요? ^#아직 아무것도...=9>end ^?qred#이것 좀 보세요!=10>tiqu ^?!qst#네? 뭐라고요?=9>quest=18102>end
+11019,"role=500^pers=1^step=10^~Its amazing that so many people would squander such a powerful weapon. ^#I agree, let's find it!=30","role=500^pers=1^step=10^~그렇게 많은 사람이 이런 강력한 무기를 허투루 썼다니 놀랍네요. ^#맞아요, 어서 찾죠!=30"
+11022,role=500^pers=1^step=8^~Have you tracked down which race commisioned it yet? ^#I'm still looking=9 ^?qred#I found them!=10>tiqu ^?!qst#Wait what?=9>quest=18103>end,role=500^pers=1^step=8^~어느 종족이 주문했는지 알아내셨어요? ^#아직 찾는 중이에요=9 ^?qred#찾았어요!=10>tiqu ^?!qst#네? 뭐라고요?=9>quest=18103>end
+11023,role=500^pers=1^step=9^~Keep hailing ships of different factions until you find the one that knows what we need. ^#I'm on it!=8>end,role=500^pers=1^step=9^~우리가 필요한 걸 아는 세력이 나올 때까지 여러 세력의 함선에 계속 교신해 보세요. ^#맡겨 주세요!=8>end
+11024,role=500^pers=1^step=10^~I'll use this information to cross-reference in my searches. Good work. ^#What's next?=30,role=500^pers=1^step=10^~이 정보로 제 조사 자료와 대조해 볼게요. 잘하셨어요. ^#다음은요?=30
+11025,role=500^pers=1^step=30^~I need some time to compare my notes with the information you've found. I'll send a coded transmission once I've made a plan. ^#What should I do until then?=31,role=500^pers=1^step=30^~찾아 주신 정보와 제 기록을 맞춰 볼 시간이 좀 필요해요. 계획이 서면 암호 통신을 보낼게요. ^#그동안 전 뭘 하죠?=31
+11026,"role=500^pers=1^step=31^~Follow up on whatever other business you have... Do some crafting, go cave-diving, explore some new areas maybe? ^#I'll be waiting for your call.=31 >clearsi=340 >clearsi=341 >setlegendbegun=31 &end","role=500^pers=1^step=31^~하던 일이나 계속하세요... 제작도 좀 하고, 동굴 탐험도 하고, 새로운 곳도 좀 둘러보시든가요. ^#연락 기다릴게요.=31 >clearsi=340 >clearsi=341 >setlegendbegun=31 &end"
+11027,"role=500^pers=1^step=12^~Welcome back.`Now I'd like to follow another avenue of investigation, something to help us detect it at a distance. I want information on its energy signature. ^#How are we going to get that?=13",role=500^pers=1^step=12^~어서 오세요.`이번엔 다른 방향으로 조사해 보고 싶어요. 멀리서도 그걸 탐지할 수 있게 해 줄 방법이요. 그것의 에너지 신호에 관한 정보가 필요해요. ^#그걸 어떻게 구하죠?=13
+11030,"role=500^pers=1^step=14^~Deep underground. Here, I'll show you where to look. ^#Great. =15>quest=18201>end","role=500^pers=1^step=14^~깊은 지하요. 자, 어디를 찾아봐야 하는지 알려 드릴게요. ^#좋아요. =15>quest=18201>end"
+11033,"role=500^pers=1^step=16^~Incredible. They're not very organized, or complete, but these will be a great help in detecting it. ^#What else should we try?=34","role=500^pers=1^step=16^~굉장해요. 정리가 잘 되어 있거나 완전하진 않지만, 그걸 탐지하는 데 큰 도움이 될 거예요. ^#또 뭘 해 볼까요?=34"
+11037,"role=500^pers=1^step=14^~That compound is extremely rare. If you can collect enough, I'm sure I can develop some sort of tracking method. ^#I'll see what I can do=15>quest=18202>end",role=500^pers=1^step=14^~그 화합물은 무척 희귀해요. 충분히 모아 주시면 분명 무슨 추적 방법을 개발할 수 있을 거예요. ^#해 볼게요=15>quest=18202>end
+11040,"role=500^pers=1^step=16^~Yes, this will do! The fact that it's so rare will work in our favor. ^#Great! What comes next?=34","role=500^pers=1^step=16^~네, 이거면 돼요! 워낙 희귀하다는 점이 오히려 우리한테 유리하게 작용할 거예요. ^#좋아요! 다음은요?=34"
+11043,"role=500^pers=1^step=14^~If you can find the creature's remains and scan them, we can learn the weapon's energy signature. ^#Where do I go?=15>quest=18203>end",role=500^pers=1^step=14^~그 생물의 유해를 찾아 스캔해 주시면 무기의 에너지 신호를 알아낼 수 있어요. ^#어디로 가면 되죠?=15>quest=18203>end
+11044,role=500^pers=1^step=15^~Have you scanned the creature's remains yet? ^#I'll get to it...=15>end ^?qred#I have the energy signature!=16>tiqu ^?!qst#Wait what?=15>quest=18203>end,role=500^pers=1^step=15^~그 생물의 유해는 스캔하셨어요? ^#곧 할게요...=15>end ^?qred#에너지 신호를 알아냈어요!=16>tiqu ^?!qst#네? 뭐라고요?=15>quest=18203>end
+11045,role=500^pers=1^step=16^~Great work! Now I can look for reports with similar characteristics. ^#Are we getting close?=34,role=500^pers=1^step=16^~잘하셨어요! 이제 비슷한 특징이 있는 보고를 찾아볼 수 있어요. ^#거의 다 왔나요?=34
+11046,"role=500^pers=1^step=33^~Now that I have a way to track it, it's time to crunch the numbers. Data analysis is one of my specialties, but it will be boring for you... ^#More waiting? =34","role=500^pers=1^step=33^~이제 추적할 방법이 생겼으니 숫자를 돌려 볼 차례예요. 데이터 분석은 제 특기지만, 당신에겐 지루할 거예요... ^#또 기다려요? =34"
+11047,"role=500^pers=1^step=34^~That's right. Explore, talk to aliens, maybe chart a wormhole... Just do what you do and I'll be in touch. ^#Just like last time...=34 >clearsi=340 >clearsi=341 >setlegendbegun=33 &end","role=500^pers=1^step=34^~맞아요. 탐험하고, 외계인과 얘기하고, 웜홀도 좀 찾아보시고... 하던 대로 하시면 제가 연락할게요. ^#지난번처럼요...=34 >clearsi=340 >clearsi=341 >setlegendbegun=33 &end"
+11048,"role=500^pers=1^step=17^~While you were gone, I found some information about a recent sighting of the item... Within the last year. ^#YEAR?!=18 ^#Sounds promising=19","role=500^pers=1^step=17^~안 계신 동안, 그 물건이 최근에 목격됐다는 정보를 찾았어요... 1년 안쪽이에요. ^#1년이요?!=18 ^#희망적이네요=19"
+11049,"role=500^pers=1^step=18^~If this was going to be easy or quick I could do it myself. You've sped up the process tremendously, but there's still work to be done. ^#All right, let's get to it.=19","role=500^pers=1^step=18^~쉽고 빠른 일이었다면 제가 직접 했겠죠. 당신 덕분에 엄청 빨라졌지만, 아직 할 일이 남았어요. ^#좋아요, 시작하죠.=19"
+11052,role=500^pers=1^step=20^~It's a little out-of-the-way place not too far from here. You could easily miss it if you didn't know what to look for. ^#I'll go 'talk' to them.=21>quest=18301>end,"role=500^pers=1^step=20^~여기서 그리 멀지 않은, 조금 외진 곳이에요. 뭘 찾아야 하는지 모르면 그냥 지나치기 쉬워요. ^#가서 '대화'를 좀 나눠 볼게요.=21>quest=18301>end"
+11053,role=500^pers=1^step=21^~Have you found the syndicate hideout yet? ^#I've been busy=21>end ^?qred#Done.=22>tiqu ^?!qst#Wait what?=21>quest=18301>end,role=500^pers=1^step=21^~신디케이트 은신처는 찾으셨어요? ^#좀 바빴어요=21>end ^?qred#처리했어요.=22>tiqu ^?!qst#네? 뭐라고요?=21>quest=18301>end
+11054,"role=500^pers=1^step=22^~I hope they didn't give you too much trouble. It won't be long now, I'm sure I can piece it together... ^#I'm excited=37 ^#It better be worth it=37",role=500^pers=1^step=22^~그들이 너무 애먹이진 않았길 바라요. 이제 얼마 안 남았어요. 분명 퍼즐을 맞출 수 있을 거예요... ^#기대되네요=37 ^#그만한 가치가 있어야 할 텐데요=37
+11055,"role=500^pers=1^step=19^~A while ago I came across some comm transcripts. I didn't think much of it at the time, but now I'm certain they were referring to the weapon. You won't believe this. ^#What?=20","role=500^pers=1^step=19^~얼마 전에 통신 기록을 몇 개 입수했어요. 그땐 대수롭지 않게 여겼는데, 이제 보니 분명 그 무기 얘기였어요. 믿기지 않으실 거예요. ^#뭔데요?=20"
+11059,role=500^pers=1^step=21^~Go get the records from the comms facility. ^#I'm on my way=21 >end ^?qred#I already did!=22>tiqu ^?!qst#Wait what?=21>quest=18302>end,role=500^pers=1^step=21^~통신 시설에 가서 기록을 가져오세요. ^#가는 중이에요=21 >end ^?qred#벌써 가져왔어요!=22>tiqu ^?!qst#네? 뭐라고요?=21>quest=18302>end
+11060,role=500^pers=1^step=22^~Oh look at this. Wait. If I'm reading this right... I know what it means! ^#Tell me!=37,role=500^pers=1^step=22^~이것 좀 봐요. 잠깐만요. 제가 제대로 읽은 거라면... 무슨 뜻인지 알겠어요! ^#말해 줘요!=37
+11065,role=500^pers=1^step=20^~They're hanging out in the casino at the @syndicate asteroid base in sector 9! ^#I'll leave immediately!=21 >quest=18303>end,role=500^pers=1^step=20^~섹터 9에 있는 @syndicate 소행성 기지의 카지노에서 어슬렁거리고 있어요! ^#당장 출발할게요!=21 >quest=18303>end
+11068,"role=500^pers=1^step=22^~Tell me everything, don't leave out a single detail! ^#Here's what happened...=37","role=500^pers=1^step=22^~전부 얘기해 주세요, 하나도 빠짐없이요! ^#그러니까 무슨 일이 있었냐면...=37"
+11069,role=500^pers=1^step=37^~I'm going to need some--^#Time to process? =38,role=500^pers=1^step=37^~시간이 좀--^#정리할 시간이 필요하다고요? =38
+11070,"role=500^pers=1^step=38^~That's right. We shouldn't get ahead of ourselves. So give me some room to work, go out and see the galaxy. Just don't get killed before I contact you.^#I'll be back...=38 >clearsi=340 >clearsi=341 >setlegendbegun=35 &end",role=500^pers=1^step=38^~맞아요. 너무 앞서 나가면 안 되죠. 그러니 작업할 여유를 좀 주세요. 나가서 은하계 구경이라도 하세요. 제가 연락하기 전에 죽지만 마시고요.^#다시 올게요...=38 >clearsi=340 >clearsi=341 >setlegendbegun=35 &end
+11071,role=500^pers=1^step=23^~I know where it is! ^#Don't keep me in suspense...=24 ^#Take your time and explain it to me slowly=24,role=500^pers=1^step=23^~어디 있는지 알아냈어요! ^#애태우지 말고 말해 줘요...=24 ^#천천히 차근차근 설명해 줘요=24
+11080,role=500^pers=1^step=26^~Are you already back from that underground bunker? ^#Not yet=26>end ^?qred#What a death-trap!=27>tiqu ^?!qst#Wait what?=26>quest=18401>end,role=500^pers=1^step=26^~그 지하 벙커에서 벌써 돌아오셨어요? ^#아직요=26>end ^?qred#완전 죽음의 함정이던데요!=27>tiqu ^?!qst#네? 뭐라고요?=26>quest=18401>end
+11081,"role=500^pers=1^step=27^~There was a time when I thought it wasn't even real, and now here it is... ^#I know, right?=40","role=500^pers=1^step=27^~실재하지도 않는 물건이라고 생각했던 때도 있었는데, 이렇게 눈앞에 있네요... ^#그러니까요!=40"
+11082,"role=500^pers=1^step=24^~It's in the hands of a notorius criminal who is obsessed with collecting powerful weapons. And not just personal weapons like we're after, but big ship guns too. ^#Sounds dangerous.=25",role=500^pers=1^step=24^~강력한 무기 수집에 집착하는 악명 높은 범죄자 손에 있어요. 우리가 찾는 개인 화기뿐 아니라 대형 함포까지 모은대요. ^#위험해 보이네요.=25
+11085,"role=500^pers=1^step=26^~You're still alive! You haven't left yet, have you? ^#Nope.=26>end ^#It's done.=27>tiqu ^?!qst#Wait what?=26>quest=18402>end",role=500^pers=1^step=26^~살아 계시네요! 아직 출발 안 하셨죠? ^#네.=26>end ^#끝냈어요.=27>tiqu ^?!qst#네? 뭐라고요?=26>quest=18402>end
+11086,role=500^pers=1^step=27^~Look at that... We're lucky it wasn't destroyed. ^#Very=40,role=500^pers=1^step=27^~이것 좀 봐요... 부서지지 않은 게 천만다행이에요. ^#그러게요=40
+11089,"role=500^pers=1^step=25^~Dead. They escaped in a life-pod, docked at a Gruff station, and got killed by their 'doctors'. But they didn't have the weapon... ^#How is that good news?=26","role=500^pers=1^step=25^~죽었어요. 탈출 포드로 도망쳐서 그러프 정거장에 도킹했다가, 거기 '의사'들한테 죽었대요. 그런데 무기는 갖고 있지 않았어요... ^#그게 왜 좋은 소식이죠?=26"
+11090,"role=500^pers=1^step=26^~They must have hidden it on the ship, and planned to go back. Lucky for us, they never got the chance. Here's the info I have on the shipwreck. Go find it. ^#I'm on my way=27>quest=18403>end",role=500^pers=1^step=26^~함선에 숨겨 두고 나중에 가지러 가려 했던 게 분명해요. 다행히 그럴 기회가 없었죠. 여기 그 난파선에 관한 정보예요. 가서 찾아보세요. ^#가는 중이에요=27>quest=18403>end
+11091,"role=500^pers=1^step=27^~Did you find it?! ^#Not yet=27>end ^?qred#Yes, look!=28>tiqu ^?!qst#Wait what?=27>quest=18403>end","role=500^pers=1^step=27^~찾으셨어요?! ^#아직요=27>end ^?qred#네, 보세요!=28>tiqu ^?!qst#네? 뭐라고요?=27>quest=18403>end"
+11092,role=500^pers=1^step=28^~What comes next?^#So...=40,role=500^pers=1^step=28^~다음은 뭐죠?^#그러니까...=40
+11093,role=500^pers=1^step=24^~Somehow ,role=500^pers=1^step=24^~어쩌다 보니 
+11095,"role=500^pers=1^step=25^~Even a legendary weapon doesn't make you invincible, and that fool is now dead. Killed by a pack of draconic gnashers. ^#Idiot. I'll go pick it up.=26>quest=18404>end",role=500^pers=1^step=25^~전설의 무기가 있다고 무적이 되는 건 아니죠. 그 멍청이는 이제 죽었어요. 드라코닉 그내셔 무리한테 당했대요. ^#멍청하긴. 가서 주워 올게요.=26>quest=18404>end
+11098,"role=500^pers=1^step=27^~Is that the... IT IS! Amazing. How does it feel? ^#Yeah, it's pretty great.=40","role=500^pers=1^step=27^~그게 설마... 맞네요! 굉장해요. 기분이 어때요? ^#네, 꽤 좋네요.=40"
+11099,"role=500^pers=1^step=40^~So now it's time to decide... who gets to keep it? I've been hunting it for years, but you've done most of the really dangerous work. ^#So what do you suggest?=40>setlegendbegun &randomconvostep=41,44,47,50,53","role=500^pers=1^step=40^~자, 이제 정할 때가 됐네요... 이걸 누가 갖죠? 전 몇 년 동안 쫓아왔지만, 정말 위험한 일은 대부분 당신이 했잖아요. ^#어떻게 하자는 거죠?=40>setlegendbegun &randomconvostep=41,44,47,50,53"
+11100,"role=500^pers=1^step=41^~I'll pay you $5,000,000 if you hand it over right now. I have access to those kinds of funds. ^#But I worked so hard, I want to keep it=47>randomconvostep=47,50,56,56  ^#5 Million?! Yes!=42>spend=-5000000>droplegendaryitem ^#No way, 10 Mil=43","role=500^pers=1^step=41^~지금 바로 넘겨주시면 $5,000,000을 드릴게요. 그 정도 자금은 댈 수 있어요. ^#그렇게 고생했는데, 제가 갖고 싶어요=47>randomconvostep=47,50,56,56  ^#500만이요?! 좋아요!=42>spend=-5000000>droplegendaryitem ^#어림없어요, 1,000만=43"
+11101,role=500^pers=1^step=42^~It's worth every credit. I OWN A LEGEND! ^#Whoa...=60 ,role=500^pers=1^step=42^~한 푼도 아깝지 않아요. 내가 전설을 가졌다고! ^#와...=60 
+11102,"role=500^pers=1^step=43^~Don't get greedy. ^#It's worth more!=41>randomconvostep=44,47,50,56,56 ^#You're right, I'll take the $5,000,000 =42>spend=-5000000>droplegendaryitem","role=500^pers=1^step=43^~욕심부리지 마세요. ^#그보다 더 가치가 있어요!=41>randomconvostep=44,47,50,56,56 ^#맞아요, $5,000,000 받을게요 =42>spend=-5000000>droplegendaryitem"
+11103,"role=500^pers=1^step=44^~Just let me hold it for a moment... take my picture with it? Then you can keep it. You'll make better use of it anyway. ^#That's very generous. Yes. =45 ^#I don't trust you=46 &randomconvostep=41,47,50,53,56,56,57","role=500^pers=1^step=44^~잠깐만 들어 보게 해 주세요... 들고 사진 한 장만 찍어 줄래요? 그럼 가지셔도 돼요. 어차피 당신이 더 잘 쓸 테니까요. ^#정말 너그러우시네요. 좋아요. =45 ^#못 믿겠어요=46 &randomconvostep=41,47,50,53,56,56,57"
+11104,"role=500^pers=1^step=45^~OK, let me get in a good pose... there!`...`All right, here you go. It's been a real pleasure working with you. ^#You too!=60","role=500^pers=1^step=45^~좋아요, 포즈 좀 잡고... 됐다!`...`자, 여기요. 함께 일해서 정말 즐거웠어요. ^#저도요!=60"
+11106,"role=500^pers=1^step=47^~Give me $1,000,000 and it's yours. It's easily worth more than that, but I do this for the thrill of the chase more than anything. ^#How about you pay me for it instead?=41 ^No way, I'm keeping it!=48 ^?$$$$1000000#Sounds good=49 >spend=1000000 ^#I can't afford that right now=48>randomconvostep=41,44,50","role=500^pers=1^step=47^~$1,000,000만 주시면 가지셔도 돼요. 그보다 훨씬 값어치가 있지만, 전 무엇보다 쫓는 재미로 이 일을 하거든요. ^#차라리 당신이 저한테 돈을 내는 건 어때요?=41 ^싫어요, 제가 가질래요!=48 ^?$$$$1000000#좋아요=49 >spend=1000000 ^#지금은 그만한 돈이 없어요=48>randomconvostep=41,44,50"
+11107,"role=500^pers=1^step=48^~Too bad. We're going to have to agree on something... *right now*.^#Then make me a better offer=48  &randomconvostep=41,44,50,56,56,57 ","role=500^pers=1^step=48^~아쉽네요. 뭔가 합의를 봐야겠어요... *지금 당장*.^#그럼 더 좋은 조건을 내놔요=48  &randomconvostep=41,44,50,56,56,57 "
+11108,"role=500^pers=1^step=49^~All right, I hope you put it to good use. ^#I will=60 ","role=500^pers=1^step=49^~좋아요, 잘 써 주길 바라요. ^#그럴게요=60 "
+11109,"role=500^pers=1^step=50^~Give it here. You wouldn't even know about it if it weren't for me. I'm the rightful owner. ^#Uh, no. =51 ^#You're right, of course. Here.=52 ^#It'll cost you=41 ^#I'll pay you=47","role=500^pers=1^step=50^~이리 주세요. 저 아니었으면 이런 게 있는 줄도 몰랐을 거잖아요. 정당한 주인은 저예요. ^#음, 싫은데요. =51 ^#물론 당신 말이 맞죠. 여기요.=52 ^#대가를 치러야 할 거예요=41 ^#제가 돈을 낼게요=47"
+11110,role=500^pers=1^step=51^~You're making a big mistake here. One last chance: hand it over. ^#No=59 >npcattacks>end^#Fine. I didn't want the stupid thing anyway.=52 ,role=500^pers=1^step=51^~큰 실수 하시는 거예요. 마지막 기회예요: 넘기세요. ^#싫어요=59 >npcattacks>end^#알았어요. 어차피 그 멍청한 물건 필요 없었어요.=52 
+11111,role=500^pers=1^step=52^~Good choice. I've compensated you plenty along the way. Now leave my world. ^#I'm out=59>droplegendaryitem>end,role=500^pers=1^step=52^~현명한 선택이에요. 그동안 보수는 충분히 드렸잖아요. 이제 제 구역에서 나가 주세요. ^#갈게요=59>droplegendaryitem>end
+11112,"role=500^pers=1^step=53^~You keep it. I don't even want to touch it. After everything it's been through, I think it's cursed! ^#Oh you might be right...=54 ^#No, here, take it!=53>randomconvostep=44,56,56,57 ^#I'll take my chances.=55","role=500^pers=1^step=53^~가지세요. 손대기도 싫어요. 그 온갖 일을 겪은 걸 보면, 저주받은 게 틀림없어요! ^#그 말이 맞을지도 몰라요...=54 ^#아니요, 자, 가져가세요!=53>randomconvostep=44,56,56,57 ^#운에 맡겨 볼게요.=55"
+11113,"role=500^pers=1^step=54^~Well, if you don't want it... ^#Yes?=53 &randomconvostep=44,47,50,56,56,57","role=500^pers=1^step=54^~뭐, 원하지 않으시면야... ^#그래서요?=53 &randomconvostep=44,47,50,56,56,57"
+11114,"role=500^pers=1^step=55^~All right, it's yours. I hope it serves you well. ^#Thank you=60 ","role=500^pers=1^step=55^~좋아요, 당신 거예요. 잘 쓰시길 바라요. ^#고마워요=60 "
+11115,role=500^pers=1^step=56^~Fine. I'm done playing around.`Give it to me. NOW. ^#No way.=59 >npcattacks>end ^#You're the rightful owner=59>droplegendaryitem>end ,role=500^pers=1^step=56^~됐어요. 장난은 끝이에요.`내놔요. 지금 당장. ^#어림없어요.=59 >npcattacks>end ^#당신이 정당한 주인이죠=59>droplegendaryitem>end 
+11116,role=500^pers=1^step=57^~I don't want to argue. I'm satisfied just seeing it. Take it. ^#Thank you=60,role=500^pers=1^step=57^~다투고 싶지 않아요. 본 것만으로도 만족해요. 가지세요. ^#고마워요=60
+11120,"role=500^pers=1^step=60^~I'm taking a break from relic hunting for now, but I'll mention your name to a few people in my circles. ^#Thanks, bye=60>end ","role=500^pers=1^step=60^~당분간 유물 사냥은 쉬려고 해요. 그래도 제 주변 사람들한테 당신 이름을 알려 둘게요. ^#고마워요, 안녕히=60>end "
+2078,Description:Only the luckiest captains get custom ships.,Description:운 좋은 함장만이 맞춤 함선을 가질 수 있습니다.
+75,Space Suit,우주복
+582,Rescue The Alien Landing Party,외계인 상륙조 구출
+753,The Bankers,뱅커
+2017,The Tourist,관광객
+2192,The Shipwright's Shopping List,조선공의 쇼핑 목록
+2355,Settle Down,정착
+2705,Custom Built,맞춤 제작
+3568,EVACUATION FLEET,피난 함대
+3569,BANKERS BROKE,뱅커 붕괴
+3570,FIGHT THE BLIGHT,블라이트와의 싸움
+3571,SETTLE DOWN,정착
+4046,HUMANITY'S REVENGE,인류의 복수
+4047,SURVIVAL OF THE FITTEST,적자생존
+4048,POST-PHYSICAL TRANSCENDENCE,탈물질적 초월
+4049,PLANETARY EMPEROR,행성 황제
+4051,TOTAL OBLIVION,완전한 망각
+4053,MIND TRANSFERENCE,정신 전송
+4306,Frag Grenade,파편 수류탄
+5031,Escape Engine,탈출 엔진
+5920,Blasted Settlement,폭격당한 정착지
+4677,No Room To ,공간 부족: 
+6201,Insane Archaeology,광기의 고고학
+7119,Modify An Artifact,유물 개조
+6149,Alt-Tab Issues Are Common,Alt-Tab 문제는 흔합니다
+8581,"Move cursor with keys on map for details. [F] to fire, [ESC] to exit, [ENTER] to go.","키로 지도 위 커서를 움직여 자세히 보세요. [F] 발사, [ESC] 나가기, [ENTER] 이동."
+7028,Renegade ,변절자 
+8471,Enemy ,적 
+1426,"donotdelete,blight,nanopocalypse,star temple,amulet,legend,Complete The Delivery,Settle Down,Asteroid Base,Syndicate,Kill 'em All,","donotdelete,blight,nanopocalypse,star temple,amulet,legend,Complete The Delivery,Settle Down,Asteroid Base,Syndicate,Kill 'em All,배달 완료,정착,소행성 기지,신디케이트,모조리 죽여라,별 사원,아뮬렛,"
+5821,"i can't even be bothered to kill you,you're not worth my time,we turned off our weapons,go ahead. do it.,i can't find the energy to exploit you,my money motivation is missing,i'm just going to sit here,i don't care anymore,i turned the shields down as far as they'll go,you could probably destroy my ship,i won't fight back,killing you would make me feel worse","널 죽일 기운도 없어,넌 내 시간을 쓸 가치도 없어,무기는 꺼 뒀어,해 봐. 어서.,널 등쳐 먹을 기운도 없어,돈 욕심도 사라졌어,그냥 여기 앉아 있을래,이젠 아무래도 상관없어,보호막은 최대한 내려 뒀어,아마 내 함선쯤은 부술 수 있을걸,반격 안 할게,널 죽이면 기분만 더 나빠질 거야"
+6651,nothing happened,아무 일도 일어나지 않았다
+3322,New High!,최고 기록!
+7106,d : ,일 
+7107,h : ,시간 
+7108,m : ,분 
+2697,```Approaching Infinity Classic will launch`after you close this window.` &14 ``You might need to `maximize the window it launches in.,```이 창을 닫으면`어프로칭 인피니티 클래식이 실행됩니다.` &14 ``실행된 창을 `최대화해야 할 수도 있습니다.
+3632,Approaching Infinity is still in active development and will continue to expand for a *long* time to come.^,어프로칭 인피니티는 아직 활발히 개발 중이며 앞으로 *오랫동안* 계속 확장될 것입니다.^
+3633,Approaching Infinity just got a big user interface update!,어프로칭 인피니티의 사용자 인터페이스가 대규모로 업데이트되었습니다!
+7497,There is no time travel in Approaching Infinity.,어프로칭 인피니티에 시간 여행은 없습니다.
+7689,Would you like to upload your planet's name to the Approaching Infinity database for possible inclusion in a future version?,향후 버전에 포함될 수 있도록 행성 이름을 어프로칭 인피니티 데이터베이스에 업로드하시겠습니까?

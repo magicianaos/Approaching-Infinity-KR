@@ -1,0 +1,72 @@
+{
+"New Ship Weapon Paradigms.txt": [
+[
+"name=Autocannon=",
+"name=오토캐논="
+],
+[
+"name=Railgun=",
+"name=레일건="
+],
+[
+"name=Hull-Raker=",
+"name=선체 파쇄기="
+],
+[
+"name=Nano-Cannon=",
+"name=나노 캐논="
+],
+[
+"name=Minelayer=",
+"name=기뢰 부설기="
+],
+[
+"name=White-Beam=",
+"name=백색 광선="
+]
+],
+"Consumables.txt": [
+[
+"^Auto-Turret^",
+"^자동 포탑^"
+],
+[
+"^Porta-Door^",
+"^휴대용 문^"
+]
+],
+"RecipeDataList.txt": [
+[
+"^Hull-Raker^",
+"^선체 파쇄기^"
+],
+[
+"^Nano-Cannon^",
+"^나노 캐논^"
+],
+[
+"^Auto-Repair^",
+"^자동 수리^"
+],
+[
+"^Exo-Armor^",
+"^외골격 장갑^"
+],
+[
+"^Multi-Tool^",
+"^멀티툴^"
+],
+[
+"^MonsteRelax™^",
+"^몬스터릴렉스™^"
+],
+[
+"^Auto-Turret^",
+"^자동 포탑^"
+],
+[
+"^Porta-Door^",
+"^휴대용 문^"
+]
+]
+}

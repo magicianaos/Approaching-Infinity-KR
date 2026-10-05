@@ -1,0 +1,5454 @@
+Assault Scout
+201
+#
+`
+Trader
+202
+#
+`
+Explorer
+203
+#
+`
+Asteroid Miner
+204
+#
+`
+Stealth Runner
+205
+#
+`
+Cruiser
+206
+#
+`
+Corsair
+207
+#
+`
+Pugilist
+208
+#
+`
+Observer
+209
+#
+`
+Sentinel
+210
+#
+`
+Wanderer
+211
+#
+`
+Hauler
+212
+#
+`
+Dealer
+213
+#
+`
+Yacht
+214
+#
+`
+Destroyer
+215
+#
+`
+Counselor
+216
+#
+`
+Ravager
+217
+#
+`
+Negotiator
+218
+#
+`
+`
+Scrap Hound
+219
+#
+`
+`
+Star-Skimmer
+220
+#
+`
+Cerebrosphere
+221
+#
+`
+`
+` MainMenu_Overlay3 399
+`
+`
+Escape Pod
+400
+#
+`
+Garbage Scow
+406
+#
+`
+A_Ship_Back
+419
+#
+`
+`
+OOPS
+443
+위상 이탈 공간
+`
+`
+Metallicum Deposit
+444
+메탈리쿰 매장지
+`
+`
+` v that works but i'm using the invisible one for now.
+Exclamation4
+`Exclamation-BLANK
+222
+#
+`
+`
+`Shot4
+`223
+`#
+`
+`
+` player image:
+` 224
+` hard-coded player image.
+`
+`
+`Shuttle ` THIS IMAGE IS RESERVED FOR THE NEW GAME PROCESS
+`225 ` THIS IMAGE IS RESERVED FOR THE NEW GAME PROCESS
+`#
+`
+CryoUnit
+226
+극저온 냉동기
+`
+``Percentage
+`PercentIcon
+`227 ` THIS IMAGE IS RESERVED FOR THE NEW GAME PROCESS
+`#
+``
+`CrewBlocker
+`228
+`#
+``
+Shot
+229
+#
+`
+CrossHair3
+230
+#
+`
+Lit
+231
+#
+`
+PointerXY
+232
+#
+`
+`
+`
+Loot_Cybernetics1b
+233
+사이버네틱스 상자
+`
+`
+DeluxeBox3
+234
+전리품 상자
+`
+`
+`McGuffin
+Mineral
+235
+퀘스트 아이템
+`
+Quest Marker
+236
+퀘스트 목표
+`
+Loot_Icon_SpatialAnomaly
+237
+공간 이상 현상
+`
+Chest
+238
+#
+`
+Loot_Icon_Art
+239
+외계 예술품
+`
+Asteroid
+240
+채굴용 소행성
+`
+` rc16: this used to be "egg" but that's a monster!
+Bandit_Machine_Closed
+241
+도박 기계
+`
+`
+HexaBox1
+242
+수류탄 상자
+`
+`
+Web
+243
+수정 거미줄
+`
+Loot_Icon_relic
+244
+역사 유물
+`
+Mineral
+245
+광물 샘플
+`
+Vegetable
+246
+식물 표본
+`
+`
+Locker_Closed
+247
+닫힌 사물함
+`
+Loot_Icon_Uniform
+248
+장교 제복
+`
+`
+HexaBox2
+249
+빈 수류탄 상자
+`
+`
+Transparency
+250
+#
+`
+`
+Boxes Of Boxes2 (2)
+251
+상자 속 상자
+`
+Foodstuffs2 (2)
+252
+식량
+`
+Raw Ore2 (2)
+253
+원광석
+`
+Heavy Equipment2 (2)
+254
+중장비
+`
+Stim-Ware2 (2)
+255
+자극제
+`
+Chemicals2 (2)
+256
+화학 물질
+`
+Microchips2 (2)
+257
+마이크로칩
+`
+Weapons2 (2)
+258
+소형 화기
+`
+Transuranium2 (2)
+259
+초우라늄
+`
+Narcotics2 (2)
+260
+마약
+`
+Gemstones2 (2)
+261
+보석
+`
+Nano-Machines2 (2)
+262
+나노머신
+`
+Anti-Matter2 (2)
+263
+반물질
+`
+`
+Yellow Button
+264
+노란 버튼
+`
+Purple Button
+265
+보라 버튼
+`
+Loot_Icon_Crafting_Manual
+266
+제작 설명서
+`
+GlowCubes
+267
+발광 큐브
+`
+Oxygen Tanks
+268
+산소 탱크
+`
+Loot_Officer_XP
+269
+장교 경험치 보너스
+`
+``
+DataParticleC
+699
+#
+`
+`
+Red Honey
+270
+붉은 꿀
+`
+Loot_Icon_Medkit
+271
+구급 키트
+`
+Golden Pollen
+272
+황금 꽃가루
+`
+`
+CoolantF
+273 ` chemical spill? <- this doesn't exist as an ITEM anymore. it's a fire!
+Megafreeze
+`
+`
+Trap_Biohazard
+274
+공격적인 생물 오염
+`
+Trap_Poison
+275
+침습성 독소
+`
+Trap_Radioactive
+276 ` radiation
+위험한 방사능
+`
+`
+Alien Pylon Blue New
+277
+외계 파일런
+`
+AmuletOfYendor1
+278
+옌더의 아뮬렛
+`
+Oxy-Algae
+279
+산소 조류
+`
+RandomText
+280
+데이터패드
+`
+White Data
+281
+흰색 데이터
+`
+White Energy
+282
+흰색 에너지
+`
+Report E
+283
+누군가 남긴 메시지
+`
+Report D
+483
+재난 기록
+`
+Device
+284
+장치
+`
+Schematic
+285
+제작 설계도
+`
+Parts
+286
+제작 부품
+`
+Computer01
+287
+컴퓨터 단말기
+`
+Info Item
+288
+정보
+`
+Coordinate Clue
+289
+피락스 단서
+`
+Firax Artifact
+290
+피락스 유물
+`
+`
+YendorClue
+291
+옌더 단서
+`
+`
+Credits1
+292
+크레딧
+`
+Supplies
+293
+보급품
+`
+Rare Part Box
+294
+희귀 부품 상자
+`
+Blue Security Switch
+295
+역장 스위치
+`
+Security Switch
+296
+역장 스위치
+`
+`UnexploredSpaceTile6-YIKES2
+UnexploredSpaceTile6-YIKES-6
+297
+#
+``
+`
+web-tangler
+601
+#
+`
+Status-Frozen
+602
+#
+`
+Status-Burning
+603
+#
+`
+Status-Bleeding
+604
+#
+`
+`
+` THESE are for a new quest detector power:
+` THE NUMBERS FOR THESE ARE CRAZY 
+`BECAUSE THEY'RE ADDED FROM THEIR BASES (+15334)
+`OF 297,299,328,329 to arrive at these image numbers:
+`
+` these two seem to have to do with high contrast stuff:
+Q297B
+15631
+#
+`
+Q299
+15633
+#
+`
+`
+`Q328
+KBNL-Quest-Blue
+15662
+#
+`
+`Q329
+UNXP-Quest-Blue
+15663
+#
+`
+`
+` THESE are +15344, and are DETECTED MONSTERS:
+`
+EM297
+15641
+#
+EM299B
+15643
+#
+`
+KBNL-Enemy-Blue
+15672
+#
+`
+`
+UNXP-Enemy-Blue
+15673
+#
+`
+KBNL-Cloaked
+15674
+#
+`
+`
+`
+PureBlueBlock
+299
+#
+`
+` this is like HP/OXY bars, etc.:
+BAR
+300
+#
+`
+32-blocker
+301
+#
+`
+Yellow8x8b
+302
+#
+`
+White8x8
+303
+#
+``
+`
+`Warp Magnet
+Warp Magnet Alt
+304
+워프 자석
+`
+`
+Throw Grenade
+305
+#
+`
+`
+Shot
+306
+#
+`
+Shot5
+307
+#
+`
+Shot6
+308
+#
+`
+Plasma Lance Shot
+309
+#
+`
+ShotAwayTeam
+310
+#
+`
+ShotMonRng
+311
+#
+`
+`
+The24Yes
+312
+#
+The24No
+313
+#
+`
+`
+Transit Tube Up
+314
+이동 튜브 (위)
+`
+Transit Tube Down
+315
+이동 튜브 (아래)
+`
+`
+ShipDebris
+316
+#
+`
+`blank_button1
+blank_button3
+317
+#
+`
+`
+`
+Empty_Component
+318
+#
+`
+`Empty_Device
+UINew/Missing_Ship_Device
+319
+#
+`
+`Empty_Gear
+UINew/Missing_AT_Device
+320
+#
+`
+`
+Ashes
+321
+잿더미
+`
+Debris
+322
+고철
+`
+Junk Pile
+323
+잡동사니 더미
+`
+` # 325 = RELICSPLOSION
+`
+Consumables/50112
+326
+미끼
+`
+Entropic Dust G
+327
+엔트로피 먼지
+`
+`
+KBNL-Blue
+328
+#
+`
+`
+UnexploredSpaceTile6
+329
+#
+`
+`
+FrameB_UL
+331
+#
+`
+FrameB_TOP
+332
+#
+`
+FrameB_UR
+333
+#
+`
+FrameB_LEF
+334
+#
+`
+FrameB_MID
+335
+#
+`
+FrameB_RIT
+336
+#
+`
+FrameB_LL
+337
+#
+`
+FrameB_BOT
+338
+#
+`
+FrameB_LR
+339
+#
+`
+`
+ShieldHit
+340
+#
+`
+Damage_Frozen
+341
+#
+`
+Damage_Barren
+342
+#
+`
+Damage_Toxic
+343
+#
+`
+Damage_Radiation
+344
+#
+`
+Damage_Gravity
+345
+#
+`
+Damage_Corrosive
+346
+#
+`
+Damage_Molten
+347
+#
+`
+`
+``This is the damage for DYING PLANETS AS WELL:
+Damage_Molten
+348
+#
+`
+`
+Consumables/50108
+349
+스퀵 독
+`
+`
+`
+`
+Damage_White
+350
+#
+`
+`
+Space_bkg1
+351
+#
+`
+Space_bkg2
+352
+#
+`
+Space_bkg3
+353
+#
+`
+Space_bkg4
+354
+#
+`
+Space_bkg5
+355
+#
+`
+Space_bkg6
+356
+#
+`
+`
+Warp Anchor
+358
+워프 닻
+`
+`
+Webbing7
+359
+거미줄
+`
+`
+Consumables/50113
+360
+자동 포탑
+`
+textproblemwindow
+364
+#
+`
+`
+Loot_Icon_Plant_1
+365
+식물 표본
+``
+Loot_Icon_Plant_2
+366
+식물 표본
+``
+Loot_Icon_Plant_3
+367
+식물 표본
+``
+Loot_Icon_Plant_4
+368
+식물 표본
+``
+Loot_Icon_Plant_5
+369
+식물 표본
+``
+Loot_Icon_Plant_6
+370
+식물 표본
+`
+`
+Repairkit
+371
+수리 키트
+`
+`
+Loot_Icon_DNA
+372
+DNA 표본
+`
+`
+SecurityCode
+373
+보안 코드
+`
+` golden podiums
+Gold_AnvilB
+374
+건설 인터페이스
+`
+Contracts_bkg1
+375
+#
+`
+`
+`376
+`
+`
+Code Clue E
+377
+코드 조각
+`
+`
+`
+`
+Exchange_Quantity_Help
+382
+#
+`
+`
+`
+Achievment_frame_Off
+384
+#
+`
+`
+Firax Empowerer
+385
+피락스 강화기
+``
+Firax Infusor
+386
+피락스 주입기
+`
+Firax Mutator
+387
+피락스 변이기
+`
+`
+ShipWreck_Tow_B
+388
+예인 중인 잔해
+`
+`
+`
+Achievment_frame_On
+389
+#
+`
+`
+`CaptainSkills_dlg2
+`396
+`#
+Officer_Available_3
+396
+#
+`
+` THIS IS NOT USED/NEEDED ANYMORE:
+``Infinity_Logo1
+`AI_Logo_Big1
+`397
+`#
+`
+`
+`
+Twinkle
+397
+#
+`
+`
+`
+`
+`
+Vial_Blue
+421
+파란 젤
+`
+Vial_Red
+422
+빨간 젤
+`
+Vial_Yellow
+423
+노란 젤
+`
+Vial_Green
+424
+초록 젤
+`
+Vial_Purple
+425
+보라 젤
+`
+`
+`
+`
+Loot_Icon_Officer4
+427
+조난된 장교
+`
+Achievement Frame 1
+428
+#
+`
+Achievement Underlay
+429
+#
+`
+`
+Nutrition Cubes
+430
+영양 큐브
+`
+`
+Repair Terminal
+450
+수리 단말기
+`
+`
+Crafting_Part_right
+451
+#
+`
+Crafting_Part_known
+452
+#
+`
+Crafting_Part_unknown
+453
+#
+`
+Crafting_Part_Wrong
+454
+#
+`
+`
+ShipBack
+463
+#
+`
+Officer_Frame4
+469
+#
+`
+AwayTeam_Off
+474 ; button, not moused over, not on
+#
+`
+AwayTeam_On
+475 ; button moused over, regardless of current state.
+#
+`
+AwayTeam_Active
+476 ; this is for when the away team button is NOT moused over, but awayteam=1
+#
+`
+`
+` ` ` ` ` Mines B
+` ` ` ` ` Minefield_Player
+Mine NewMine Field
+477
+내 지뢰
+`
+` Mines mines? Not my yours, that's for sures.
+`
+`
+`
+` The Plague/Blighted Banker Blood
+` 487
+` Blighted Banker Blood
+`
+The Plague/Fragment
+488 ` 7317
+블라이트 포자
+`
+The Plague/Blighted Blood
+489
+블라이트에 오염된 피
+`
+`
+SolarParticle2
+499
+#
+`
+`
+``
+btn_part_select_off
+636
+#
+`
+btn_part_select_on
+637
+#
+`
+`
+`
+Icon_WeaponSlot1
+650
+#
+`
+Icon_WeaponSlot2
+651
+#
+`
+Icon_WeaponSlot3
+652
+#
+`
+Icon_Shield
+653
+#
+`
+Icon_Armor
+654
+#
+`
+Icon_Sensors
+655
+#
+`
+Icon_Engines
+656
+#
+`
+Icon_WarpDrive
+657
+#
+`
+Icon_Reactor
+658
+#
+`
+Icon_HandWeapon
+659
+#
+`
+Icon_SpaceSuit
+660
+#
+`
+Icon_Device
+661
+#
+`
+Icon_Cloak
+662
+#
+Icon_Cloak_Strat
+663
+#
+`
+Icon_Grenade
+668
+#
+`
+`
+ICON_MELEE
+669
+#
+`
+`
+`
+`Embassy
+`684
+`#
+```
+Warning_Supply_Low
+685
+#
+`
+ShipStats_frame
+686
+#
+`
+Mouse_Hover_InfoBox
+687
+#
+`
+`
+Warning_Health_Low
+688
+#
+`
+``
+`
+Warning_Oxygen_Low
+689
+#
+`
+`
+`
+`monsterholder ` FULLY GROKKED OR ELSE SELECTED?
+Bestiary_Underlay3
+693
+#
+`
+``
+`monsterholderclear ` STANDARD MONSTER HOLDER
+Bestiary_Underlay2z
+694
+#
+`
+`
+`unknown-monster-b ` QUESTION MARK
+Bestiary_Underlay1
+695
+#
+`
+`BestiaryBkg10
+`696
+`#
+`
+` IMAGES IN THE 700s ARE MOSTLY EXPLOSIONS/ANIMATIONS. and also BIG SHIP PICs!
+`
+` RC16: adding new weapon shot images : first physical ones. image = 1500+kind
+shot_pistol
+1501
+#
+shot_rifle
+1502
+#
+shot_shotgun
+1503
+#
+shot_smg
+1504
+#
+shot_sniper
+1505
+#
+shot_blaster
+1506
+#
+shot_beamer
+1507
+#
+shot_cloud
+1508
+#
+shot_missile
+1509
+#
+`
+blaster_blue
+1511
+#
+blaster_green
+1512
+#
+blaster_orange
+1513
+#
+blaster_purple
+1514
+#
+blaster_yellow
+1515
+#
+`
+`
+beamer_blue
+1521
+#
+beamer_green
+1522
+#
+beamer_orange
+1523
+#
+beamer_purple
+1524
+#
+beamer_yellow
+1525
+#
+`
+`
+cloud-blue
+1531
+#
+cloud-green
+1532
+#
+cloud-orange
+1533
+#
+cloud-purple
+1534
+#
+cloud-yellow
+1535
+#
+cloud-monofilament
+1536
+#
+`
+`
+SnowBall
+1539
+#
+`
+` ` amoeba black dark
+Energy Syphon B
+1540
+#
+`
+`
+shot_GRAPPLE-rope
+1577
+#
+`
+shot_GRAPPLE
+1578
+#
+``
+shot_needle4
+1579
+#
+`
+`
+LandingParty_C_HelmClosed
+1591
+#
+LandingParty_O_HelmClosed
+1592
+#
+Level_Up
+1598
+#
+`
+``
+`
+`
+`
+`
+`
+`
+` 1850+ are new images 2020 (*NOT* the ONLY new images tho)
+`
+`
+` RCOCT: added images for LASER BARRIERS:
+`
+Laser_Gate_Horizontal
+4003
+레이저 장벽
+`
+Laser_Gate_Vertical
+4013
+레이저 장벽
+`
+`
+Sector 50 Energy Q
+4051
+기묘한 에너지
+`
+`
+Absolutely Nothing
+4052
+기묘한 에너지
+``
+Absolutely Nothing
+4053
+기묘한 에너지
+``
+Absolutely Nothing
+4054
+기묘한 에너지
+`
+Pirate Booty
+7001
+퀘스트 아이템
+`
+Info Item
+7002
+퀘스트 아이템
+`
+Xmarks
+7003
+퀘스트 아이템
+`
+Contraband
+7004
+퀘스트 아이템
+`
+Yes
+7005
+퀘스트 아이템
+`
+Construction_Mat
+7006
+퀘스트 아이템
+`
+Mineral Sample
+7007
+퀘스트 아이템
+`
+Data Core
+7008
+퀘스트 아이템
+`
+Lifeforms
+7009
+퀘스트 아이템
+`
+Holograms
+7010
+퀘스트 아이템
+`
+Chest3
+7011
+퀘스트 아이템
+`
+Cryo Tube
+7012
+냉동 튜브
+`
+Black Hole Data
+7014
+블랙홀 데이터
+`
+Blueprint
+7015
+퀘스트 아이템
+`
+bobobobob
+7016
+퀘스트 아이템
+`
+Dogtags
+7017
+퀘스트 아이템
+`
+`
+Asteroid Mineral
+7018
+소행성 광물
+`
+Metallic Sample
+7019
+퀘스트 아이템
+`
+Items Of Interest
+7021
+흥미로운 물건
+`
+`
+Info Item D
+7022
+해적 퀘스트 단서
+`
+Info Item
+7023
+이온 흔적 단서
+`
+Info Item C
+7024
+데이터 코어 흔적
+`
+Bomb Spot
+7025
+여기에 폭탄 설치
+``
+Seed Spot
+7026
+여기에 씨앗 심기
+```
+Inconspicuous Location
+7027
+눈에 띄지 않는 장소
+`
+Contraband B
+7028
+해적 밀수품
+`
+Mineral Sample V
+7029
+광물 샘플
+`
+`
+Xmarks-cyber
+7030
+씨앗 위치
+`
+`
+Mineral Sig
+7031
+광물
+`
+`
+`
+`
+`Red Chest
+`7031
+`Red Chest
+`
+Chemical Energy
+7032
+화학 에너지
+`
+SpaceGift
+7033
+소포!
+`
+`
+NoDiseases
+7045
+U.H.O. 표지판
+`
+Chest1
+7046
+보물 상자
+`
+Chest2
+7047
+보물 상자
+`
+` ` terran times
+QuestClue2
+7048
+테라의 몰락
+`
+Xmarks
+7049
+전원 스위치
+`
+`
+Loot_Icon_Books
+7050
+퀘스트 아이템
+`
+Loot_Icon_Clothes
+7051
+퀘스트 아이템
+`
+Loot_Icon_Food
+7052
+퀘스트 아이템
+`
+Loot_Icon_Medical
+7053
+퀘스트 아이템
+`
+Loot_Icon_Misc
+7054
+퀘스트 아이템
+`
+Loot_Tools
+7055
+퀘스트 아이템
+`
+Loot_Weapon
+7056
+퀘스트 아이템
+`
+Incentive
+7058
+퀘스트 아이템
+`
+`
+SurveyMap1
+7069
+행성 조사
+`
+Previously Surveyed Planet
+7070
+이미 조사한 행성
+`
+`
+Red Honey
+7071
+붉은 꿀
+`
+Golden Pollen
+7072
+황금 꽃가루
+`
+`
+`
+`
+Monk Artifact 1
+7081
+강력한 유물
+`
+Monk Artifact 2
+7082
+강력한 유물
+`
+Monk Artifact 3
+7083
+강력한 유물
+`
+Monk Artifact 4
+7084
+강력한 유물
+`
+Monk Artifact 5
+7085
+강력한 유물
+`
+Monk Artifact 6
+7086
+강력한 유물
+`
+Monk Artifact 7
+7087
+강력한 유물
+`
+Monk Artifact 8
+7088
+강력한 유물
+`
+Monk Artifact 9
+7089
+강력한 유물
+`
+Saga
+7099
+역사 기념물
+`
+`
+`
+Mutant Lifeforms
+7101
+돌연변이 생명체
+`
+Powercell
+7102
+동력 전지
+`
+Veggie Burger
+7103
+채식 버거
+`
+Quest Marker
+7111
+항법 신호기
+`
+` ` 7200s are randomly taken, so let's say that 
+` the 7300 range is NOT RANDOMLY SPAWNED by quest functions
+` the 7400 range can be, and is just "extra" for quest items.
+` 7300s are NOT deleted by quest functions for being "inapproproate" either.
+`
+Rare Book
+7301
+사서를 위한 희귀 도서
+`
+Furniture/Mainframes/Mainframe3
+7302
+메인프레임 데이터
+` ^ this is for a quest that hasn't been written yet.
+`
+Loot_Icon_Notes
+7303
+메모
+`
+` ` Final Reports, final accounts
+Report Q
+7304
+최종 보고서
+`
+Unique Mineral C
+`7305
+7095
+독특한 광물
+`
+Bones Big B
+7306
+생물의 유해
+`
+Loot_Icon_relic_scroll
+7307
+역사 기록
+`
+Loot_Icon_Recording
+7308
+판매자 정보
+`
+Nanostructure ClueB
+7309
+나노구조 표본
+`
+Mysterious Package
+7310
+수상한 소포 B
+`
+`
+Loot_RFTSS
+7311
+원자료
+`
+Loot_FootClue
+7312
+발자국
+`
+`	Prisoner_Zasquat
+`	7313
+`	Captured Zasquat
+`
+`
+The Plague/Fragment
+7314
+블라이트 존재의 핵
+`
+Monk Artifact 6_New
+7315
+바이브레조네이터
+`
+The Plague/Blight Corpse
+7316
+블라이트 시체
+```
+The Plague/Fragment
+7317
+파편
+``
+`
+`The Plague/Corrupted DNA
+The Plague/corrupted_DNA
+7318
+오염된 DNA
+`
+```
+`
+Cryo-Schematic
+7319
+냉동 캡슐 설계도
+`
+`
+` this is the image used in station lobbies:
+Cryo-Chamber
+13400
+냉동 수면실
+`
+Gas Giant Data
+7321
+가스 행성 데이터
+`
+Spy Data
+7322
+첩보 데이터
+`
+`
+Dead Tentaculon Clue
+7331
+단서 발견!
+``
+Dead Limoquee Clue
+7332
+단서 발견!
+``
+Dead Sigorn Clue
+7333
+단서 발견!
+``
+Dead Resistance Clue
+7334
+단서 발견!
+``
+Dead Monk Clue
+7335
+단서 발견!
+``
+Dead Unifier Clue
+7336
+단서 발견!
+```
+Nano Clue
+7337
+단서 발견!
+````
+Mystery Clue B
+7338
+단서 발견!
+````
+Ashes Clue
+7339
+단서 발견!
+````
+Contaminated Food
+7340
+단서 발견!
+`
+Bad Batch
+7341
+단서 발견!
+`
+`
+` this can be randomly spawned from containers on shipwrecks where people are on a mission.
+Loot_Icon_Puzzle_Cube
+7399
+임무 목표
+`
+`
+ZapSplosion1
+7201
+#
+`
+ZapSplosion2
+7202
+#
+`
+ZapSplosion3
+7203
+#
+`
+RockSplosion1
+7204
+#
+`
+RockSplosion2
+7205
+#
+`
+RockSplosion3
+7206
+#
+`
+Sparklesplosion1
+7207
+#
+``
+Sparklesplosion2
+7208
+#
+``
+Sparklesplosion3
+7209
+#
+`
+`
+Fixplosion1
+7210
+#
+``
+Fixplosion2
+7211
+#
+``
+Fixplosion3
+7212
+#
+`
+` rc16: 
+Fire
+901
+뜨겁고 위험하며 번지기 쉽습니다.
+`
+``
+` rc16: 
+Chemical Fire
+902
+통제 불능의 화학 반응입니다.
+`
+`
+Smoke
+903
+#
+`
+Orange Gas
+904
+식물과 일부 곤충을 파괴합니다.
+`
+Vapor
+905
+안개, 증기 또는 짙은 비반응성 기체입니다.
+`
+Poison Gas
+906
+독성 구름입니다.
+`
+Nano-Swarm
+907
+모든 걸 먹어치웁니다!
+`
+corrosion
+908
+부식!
+`
+`
+Spore Cloud
+909
+포자 구름
+`
+SlimeTrail
+910
+점액 자국
+`
+Blackness
+911
+어둠
+`
+`
+WPN 1
+13401
+#
+``
+WPN 2
+13402
+#
+``
+WPN 3
+13403
+#
+``
+WPN 4
+13404
+#
+``
+WPN 5
+13405
+#
+```
+WPN 6
+13406
+#
+`
+`
+`
+`
+WPN 7
+13407
+#
+``
+WPN 8
+13408
+#
+```
+WPN 9
+13409
+#
+`
+`
+`
+`
+WPN 10
+13410
+#
+``
+WPN 11
+13411
+#
+``
+WPN 12
+13412
+#
+``
+WPN 13
+13413
+#
+``
+WPN 14
+13414
+#
+```
+WPN 15
+13415
+#
+`
+`
+`
+`
+`
+`
+WPN 91
+13499
+#
+`
+`
+`
+`
+`
+EOS 1
+13501
+#
+``
+EOS 2
+13502
+#
+``
+EOS 3
+13503
+#
+``
+EOS 4
+13504
+#
+``
+EOS 5
+13505
+#
+```
+EOS 6
+13506
+#
+`
+`
+`
+`
+EOS 7
+13507
+#
+``
+EOS 8
+13508
+#
+```
+EOS 9
+13509
+#
+`
+`
+`
+`
+EOS 10
+13510
+#
+``
+EOS 11
+13511
+#
+``
+EOS 12
+13512
+#
+``
+EOS 13
+13513
+#
+``
+EOS 14
+13514
+#
+```
+EOS 15
+13515
+#
+`
+`
+` 13520-13530 = fire, gas, smoke ANIM FLIPS.
+`
+` 13551-13598 = GAS GIANTS
+`
+`
+RemnantParticleB
+13599
+#
+`
+``13660-13675 was BLOOM CAVE WALLS , 
+` but they were never used!
+`
+`
+`` 13700-13899 are OFFICERUNIFORMS
+`  officer uniforms (13700=female,13800=male)
+`
+`
+Canyon Set1 Wall
+13960
+협곡 벽
+`
+Canyon Set1 Bottom
+13961
+협곡 벽
+`
+Canyon Set1 Left
+13962
+협곡 벽
+`
+Canyon Set1 LR
+13963
+협곡 벽
+`
+Canyon Set1 Right
+13964
+협곡 벽
+`
+Canyon Set1 LL
+13965
+협곡 벽
+`
+Canyon Set1 Across
+13966
+협곡 벽
+`
+Canyon Set1 Junction LRU
+13967
+협곡 벽
+`
+Canyon Set1 Top
+13968
+협곡 벽
+`
+Canyon Set1 Down
+13969
+협곡 벽
+`
+Canyon Set1 UR
+13970
+협곡 벽
+`
+Canyon Set1 Junction UDL
+13971
+협곡 벽
+`
+Canyon Set1 UL
+13972
+협곡 벽
+`
+Canyon Set1 Junction UDR
+13973
+협곡 벽
+`
+Canyon Set1 Junction LRD
+13974
+협곡 벽
+`
+Canyon Set1 Junction
+13975
+협곡 벽
+`
+```
+`
+Nebula Set1 Wall
+13980
+성운
+`
+Nebula Set1 Bottom
+13981
+성운
+`
+Nebula Set1 Left
+13982
+성운
+`
+Nebula Set1 LR
+13983
+성운
+`
+Nebula Set1 Right
+13984
+성운
+`
+Nebula Set1 LL
+13985
+성운
+`
+Nebula Set1 Across
+13986
+성운
+`
+Nebula Set1 Junction LRU
+13987
+성운
+`
+Nebula Set1 Top
+13988
+성운
+`
+Nebula Set1 Down
+13989
+성운
+`
+Nebula Set1 UR
+13990
+성운
+`
+Nebula Set1 Junction UDL
+13991
+성운
+`
+Nebula Set1 UL
+13992
+성운
+`
+Nebula Set1 Junction UDR
+13993
+성운
+`
+Nebula Set1 Junction LRD
+13994
+성운
+`
+Nebula Set1 Junction
+13995
+성운
+`
+```
+`
+`
+`
+Dust Puff
+14089
+#
+`
+MeleeSlash1
+14090
+#
+`
+MeleeSlash2
+14091
+#
+`
+Bullet_pistol (1)
+14096
+#
+`
+Bullet_Rifle (1)
+14097
+#
+`
+Bullet_Shotgun (1)
+14098
+#
+`
+NewBlood 1 (1)
+14101
+붉은 핏자국
+`
+NewBlood 2 (1)
+14102
+초록빛 핏자국
+`
+NewBlood 3 (1)
+14103
+푸른빛 핏자국
+`
+NewBlood 4 (1)
+14104
+검은 기름 점액
+`
+`
+`
+Debuff Arrow
+14176
+#
+`
+`
+Disruption B
+14177
+#
+`
+Bones_Particle
+14178
+#
+`
+jumpar
+14179
+#
+`
+` hailparticles hail particles
+talkingpulseB
+14180
+#
+`
+`
+Skill_GravityPulseA
+14181
+#
+`
+`
+Skill_EMP
+14182
+#
+`
+`
+Skill_Intimidate
+14183
+#
+`
+`
+`
+reddotonmap
+14190
+Enemy
+`
+`
+CaptainsLog1
+14196
+기록 위치
+`
+CaptainsLog2
+14197
+기록 위치
+`
+note_marker
+14198
+기록 위치
+`
+`
+`
+Mini_QuestIcon
+14199
+퀘스트 위치
+`
+Deco_Bed1
+14201
+침대
+`
+Deco_Bookcase1
+14202
+책장
+`
+Deco_MedicalBed1
+14203
+의료용 침대
+`
+Deco_Table1
+14204
+탁자
+`
+`
+Deco_ChemTanks1
+14205
+화학 탱크
+`
+chem-tank-leak
+14206
+새는 탱크
+`
+chem-tank-damaged
+14207
+손상된 탱크
+`
+Deco_Bench1
+14208
+벤치
+`
+Deco_Terminal1
+14211
+비활성화된 단말기
+`
+Deco_Vending1
+14212
+자판기
+`
+Deco_Hologram1
+14213
+홀로그램
+`
+Deco_BrainJar1
+14214
+보존된 뇌
+`
+`
+Deco_Chair
+14215
+의자
+`
+`
+Bandit_Machine_Open
+14218
+빈 도박 기계
+`
+`
+Locker_Open
+14219
+열린 사물함
+`
+`
+`
+`
+`
+`
+` anything higher than 14999 can NOT have a description
+` (or at least it won't be loaded)
+`
+`
+`
+Tombstone
+14298
+사망한 대원
+`
+`
+`
+`
+UI_Arrow_Up
+34001
+UI_Arrow_Up (dark)
+`
+UI_Arrow_Up2
+34002
+UI_Arrow_Up2 (highlighted)
+`
+UI_Arrow_Down
+34003
+UI_Arrow_Down (dark)
+`
+UI_Arrow_Down2
+34004
+UI_Arrow_Down2 (highlighted)
+`
+UI_Arrow_Left
+34005
+UI_Arrow_Left (dark)
+`
+UI_Arrow_Left2
+34006
+UI_Arrow_Left (highlighted)
+`
+UI_Arrow_Right
+34007
+UI_Arrow_Right (dark)
+`
+UI_Arrow_Right2
+34008
+UI_Arrow_Right (highlighted)
+`
+`
+`
+`
+`
+`You
+`997
+`#
+`
+Your Mom
+999
+#
+`
+`your other mom
+`998
+`#
+`
+justablocker
+996
+#
+`
+`
+``
+`
+`
+`
+` rc2020: here's where we going to add the new UI images, 2nd pass.
+` (numbers don't have to be in order!)
+``
+`
+`
+`
+UI_Btn_Previous1
+15041
+#
+`
+UI_Btn_Previous2
+15042
+#
+`
+UI_Btn_Next1
+15043
+#
+`
+UI_Btn_Next2
+15044
+#
+`
+``
+`
+Officer_Select1
+15051
+#
+`
+Officer_Select2
+15052
+#
+`
+`
+Install_UN_1
+15054
+#
+Install_UN_2
+15055
+#
+`
+`
+`
+`
+Install_Select1
+15062
+#
+`
+Install_Select2
+15063
+#
+`
+`
+``
+Ship_Select_Highlight
+15082
+#
+`
+``
+`
+Ship_Select_Bkg1
+15099
+#
+`
+`
+`
+`
+` 15201-15300 = NEW INDIVIDUAL DEVICE ICONS!
+`
+`
+UINew/UI_ProgresBar
+15358
+#
+ui_ProgressBar_inset
+15359
+#
+`
+``
+`
+Art_Frame01
+15372
+#
+`
+Btn_IdentifyChoice1
+15379
+#
+Btn_IdentifyChoice2
+15380
+#
+` ` ` ` warp warp warp warp
+`
+Button_Accept1
+15401
+#
+Button_Accept2
+15402
+#
+`
+`
+`
+`
+`
+`
+AI_Cursor1
+15501
+#
+`
+AI_Cursor2
+15502
+#
+`
+AI_Cursor3
+15503
+#
+`
+AI_Cursor4
+15504
+#
+`
+AI_Cursor5
+15505
+#
+`
+AI_Cursor6
+15506
+#
+``
+AI_Cursor7
+15507
+#
+`
+`
+`
+`
+mm-black
+15601
+#
+`
+mm-white
+15602
+#
+`
+mm-gray
+15603
+#
+`
+mm-yellow
+15604
+#
+`
+mm-orange
+15605
+#
+`
+mm-blue
+15606
+#
+`
+mm-pink
+15607
+#
+`
+mm-green
+15608
+#
+`
+mm-purple
+15609
+#
+``
+mm-red
+15610
+#
+``
+mm-lightblue
+15611
+#
+```
+mm-unexp-C
+15612
+#
+`
+``
+mm-back
+15613
+#
+`
+```
+mm-star
+15614
+#
+`
+mm-shipwreck
+15615
+#
+mm-shipwreck-done
+15616
+#
+mm-blue-done
+15617
+#
+`
+mm-cavewall-B
+15618
+#
+`
+`
+mm-blue70
+15619
+#
+`
+mm-airlock
+15620
+#
+``
+mm-floor-c
+15621
+#
+```
+mm-door-b
+15622
+#
+`
+`
+`
+` 15688 is reserved for a monster 88 quest image
+``
+`
+`
+Teleport_Looker
+15980
+#
+`
+Grenade_Sight_0
+15981
+#
+`
+`
+Grenade_Sight_1
+15982
+#
+`
+`
+Grenade_Sight_2
+15983
+#
+`
+`
+Grenade_Sight_3
+15984
+#
+`
+`
+`
+decorparticle
+15986
+#
+`
+walking particles5
+15987
+# ; SQUARE ROBOT 
+`
+`
+`
+`
+walking particles4
+15990
+# ; snakey slither
+`
+`
+`
+movement streaks1
+15991
+#
+`
+``
+`
+gravity push3
+15992
+#
+`
+`
+walking particles2
+15993
+# ; footprints
+`
+walking particles3
+15994
+# ; ANIMAL TRAX
+`
+`
+Ship_Locked
+15995
+#
+`
+a_looker
+15996
+#
+`
+`
+captainportraitdesignator
+15997
+#
+`
+`
+`
+escape_incognito
+15999
+#
+`
+`
+` 15201-15300 = NEW INDIVIDUAL DEVICE ICONS!
+`
+`
+`Option_Blank_Off
+`11650
+`#
+`Option_Blank_On
+`11651
+`#
+``
+`Option_Blank_Big_Off
+`11652
+`#
+`Option_Blank_Big_On
+`11653
+`#
+`
+`
+`
+`
+Asteroid_Empty
+2711
+불모의 소행성
+`
+Asteroid_Poisonous
+2712
+복합 소행성
+`
+Asteroid_Bristling
+2713
+방사성 소행성
+`
+Asteroid_Mysterious
+2714
+수수께끼의 소행성
+`
+Asteroid_RichSilver
+2715
+반짝이는 소행성
+`
+Asteroid_RichGold
+2716
+값진 소행성
+`
+Asteroid_Unstable
+2717
+불안정한 소행성
+`
+` frozen will have a chance of anything, or possibly be reserved for OTHER THINGS:
+IceteroidC
+2718
+얼음 소행성
+`
+`
+`
+Computer01
+2751
+컴퓨터 단말기
+Computer02
+2752
+컴퓨터 단말기
+Computer03
+2753
+컴퓨터 단말기
+Computer04
+2754
+컴퓨터 단말기
+Computer05
+2755
+컴퓨터 단말기
+Computer06
+2756
+컴퓨터 단말기
+Computer07
+2757
+컴퓨터 단말기
+Computer08
+2758
+컴퓨터 단말기
+``
+Computer09
+2759
+컴퓨터 단말기
+Computer10
+2760
+컴퓨터 단말기
+Computer11
+2761
+컴퓨터 단말기
+Computer12
+2762
+컴퓨터 단말기
+Computer13
+2763
+컴퓨터 단말기
+Computer14
+2764
+컴퓨터 단말기
+Computer15
+2765
+컴퓨터 단말기
+Computer16
+2766
+컴퓨터 단말기
+Computer17
+2767
+컴퓨터 단말기
+`
+`
+Officer_Portrait_Frame_Selected
+11660
+#
+``
+`Officer_Portrait_Skill_Science
+`11661
+`#
+`Officer_Portrait_Skill_Engineering
+`11662
+`#
+`Officer_Portrait_Skill_Exploration
+`11663
+`#
+`Officer_Portrait_Skill_Tactical
+`11664
+`#
+`Officer_Portrait_Skill_Navigation
+`11665
+`#
+`Officer_Portrait_Skill_Diplomacy
+`11666
+`#
+`Officer_Portrait_Skill_Operative
+`11667
+`#
+`Officer_Portrait_Skill_Pathfinder
+`11668
+`#
+`Officer_Portrait_Skill_Transmutor
+`11669
+`#
+`Officer_Portrait_Skill_Mercenary
+`11670
+`#
+``
+`
+`
+Sector_Select_Green
+11701
+#
+Sector_Select_Blue
+11702
+#
+Sector_Select_Yellow
+11703
+#
+Sector_Select_Red
+11704
+#
+Sector_Select_Orange
+11705
+#
+Sector_Select_Gray
+11706
+#
+`
+Sector_Select_Black
+11707
+#
+`
+`
+`
+Sector_Select_Highlight_Green
+11711
+#
+Sector_Select_Highlight_Blue2
+11712
+#
+Sector_Select_Highlight_Yellow
+11713
+#
+Sector_Select_Highlight_Red
+11714
+#
+Sector_Select_Highlight_Orange
+11715
+#
+Sector_Select_Highlight_Gray
+11716
+#
+`
+Sector_Select_Highlight_Black-C
+11717
+#
+`
+Health Bar B
+11731
+#
+Health Bar E
+11732
+#
+`
+`
+` 17001-17020 : racial shipwrecks. (not listed here, but existing)
+`
+Tanks_Mpt
+11750
+빈 탱크
+`
+Tanks_Fir
+11751
+가연성 탱크
+`
+Tanks_Vap
+11752
+증기 탱크
+`
+Tanks_Xen
+11753
+제노사이드 탱크
+`
+Tanks_Tox
+11754
+독성 탱크
+`
+Tanks_Nan
+11755
+나노 탱크
+`
+Tanks_Cor
+11756
+부식성 탱크
+`
+Tanks_Rad
+11757
+방사성 탱크
+`
+Tanks_Exp
+11758
+폭발성 탱크
+`
+Tanks_Unk
+11759
+미확인 탱크
+`
+Tanks_Sli
+11760
+점액 탱크
+`
+Tanks_Coo
+11761
+메가프리즈 탱크
+`
+`
+`11781-11798 = OFFICER DEATH ANIMATION
+`
+Path_North
+4041
+북쪽 길!
+`
+Path_East
+4042
+동쪽 길!
+`
+Path_South
+4043
+남쪽 길!
+`
+Path_West
+4044
+서쪽 길!
+`
+HeadlessCaptain
+4045
+#
+`
+`
+`
+Book Particles
+4059
+#
+`
+`
+`Save-Load_Window1
+`3377379
+`#
+`
+` LoadImage(3377377,"Images/Save-Load_Window1.png")
+`
+`
+`
+`
+Victory_Darken_Overlay
+3377374
+#
+`
+`
+Convo_Window-b
+3377375
+#
+``
+` DEAD RACE IMAGES 2351-2370 (loaded internally)
+`
+`
+`
+Icon_Grappler
+2380
+그래플러 총
+`
+Icon_Pistol1
+2381
+권총
+`
+Icon_Rifle1
+2382
+소총
+`
+Icon_Shotgun1
+2383
+산탄총
+`
+Icon_SMG1
+2384
+SMG
+`
+Icon_Sniper1
+2385
+저격총
+`
+Icon_Blaster1
+2386
+블래스터
+`
+Icon_Beamer1
+2387
+빔건
+`
+Icon_CloudGun1
+2388
+클라우드건
+`
+Icon_Launcher1
+2389
+런처
+`
+Icon_Knife1
+2391
+Knife
+`
+Icon_Sword1
+2392
+Sword
+`
+Icon_Hammer1
+2393
+Hammer
+`
+Icon_Eviscerator1
+2394
+Eviscerator
+``
+Icon_Zapper1
+2395
+Zapper
+`
+Icon_Extractor
+2396
+Extractor
+`
+`
+`
+`
+ad1
+155051
+#
+ad2
+155052
+#
+ad3
+155053
+#
+`
+`
+`
+` RACE HELMETS:
+`
+monsters/Pirate_Helmet
+188001
+#
+`
+monsters/Gruff_Helmet
+188002
+#
+`
+monsters/tentaculons_Helmet
+188003
+#
+`
+monsters/limoquee_Helmet
+188004
+#
+`
+monsters/sigorn_Helmet
+188006
+#
+`
+monsters/unifiers_Helmet
+188012
+#
+`
+`
+Chill Blaster
+2390
+냉각 블래스터
+`
+Bones_1
+2431
+뼈
+``
+Bones_2
+2432
+뼈
+``
+Bones_3
+2433
+뼈
+``
+Bones_4
+2434
+뼈
+``
+Bones_5
+2435
+뼈
+``
+Bones_6
+2436
+뼈
+``
+Bones_7
+2437
+뼈
+`
+`
+`
+Cave Set1 Wall
+12660
+동굴 벽
+`
+Cave Set1 Bottom
+12661
+동굴 벽
+`
+Cave Set1 Left
+12662
+동굴 벽
+`
+Cave Set1 LR
+12663
+동굴 벽
+`
+Cave Set1 Right
+12664
+동굴 벽
+`
+Cave Set1 LL
+12665
+동굴 벽
+`
+Cave Set1 Across
+12666
+동굴 벽
+`
+Cave Set1 Junction LRU
+12667
+동굴 벽
+`
+Cave Set1 Top
+12668
+동굴 벽
+`
+Cave Set1 Down
+12669
+동굴 벽
+`
+Cave Set1 UR
+12670
+동굴 벽
+`
+Cave Set1 Junction UDL
+12671
+동굴 벽
+`
+Cave Set1 UL
+12672
+동굴 벽
+`
+Cave Set1 Junction UDR
+12673
+동굴 벽
+`
+Cave Set1 Junction LRD
+12674
+동굴 벽
+`
+Cave Set1 Junction
+12675
+동굴 벽
+`
+`
+`
+`	for 18200 to 18299 OK=1		NPCs <- includes base races (1-15,19).
+`	for 18300 to 18399 OK=1		NPCs
+`	for 18400 to 18499 OK=1		NPCs
+`	for 18500 to 18599 OK=1		NPCs
+`
+`	for 19200 to 19299 OK=1		NPC FLIPS
+`	for 19300 to 19399 OK=1		NPC FLIPS
+`	for 19400 to 19499 OK=1		NPC FLIPS
+`	for 19500 to 19599 OK=1		NPC FLIPS
+`
+NPCs/NPC_r01
+18201
+#
+``
+NPCs/NPC_r02
+18202
+#
+``
+NPCs/NPC_r03
+18203
+#
+``
+NPCs/NPC_r04
+18204
+#
+``
+NPCs/NPC_r05
+18205
+#
+``
+NPCs/NPC_r06
+18206
+#
+``
+NPCs/NPC_r07
+18207
+#
+``
+NPCs/NPC_r08
+18208
+#
+``
+NPCs/NPC_r09
+18209
+#
+``
+NPCs/NPC_r10
+18210
+#
+``
+NPCs/NPC_r11
+18211
+#
+``
+NPCs/NPC_r12
+18212
+#
+``
+NPCs/NPC_r13
+18213
+#
+``
+NPCs/NPC_r14
+18214
+#
+``
+NPCs/NPC_r15
+18215
+#
+`
+`
+` the blue guys are the default syndicate race:
+` BUT THE PINK GUYS REPRESENT THEM.
+`
+NPCs/NPC_r19
+18219
+#
+`
+`
+NPCs/NPC_r19a
+18251
+#
+``
+NPCs/NPC_r19b
+18252
+#
+``
+NPCs/NPC_r19c
+18253
+#
+``
+NPCs/NPC_r19d
+18254
+#
+`
+raceface/R_256_19a
+2831
+#
+`
+``
+raceface/R_256_19b
+2832
+#
+`
+``
+raceface/R_256_19c
+2833
+#
+`
+``
+raceface/R_256_19d
+2834
+#
+`
+`
+`
+`
+raceface/R_256_18a
+2841
+#
+``
+raceface/R_256_18b
+2842
+#
+``
+raceface/R_256_18c
+2843
+#
+``
+raceface/R_256_18d
+2844
+#
+``
+raceface/R_256_18e
+2845
+#
+`
+`
+`
+`
+`
+`
+`
+NPCs/SyndicateA_Lab
+18261
+#
+``
+NPCs/SyndicateB_Lab
+18262
+#
+``
+NPCs/SyndicateC_Lab
+18263
+#
+``
+NPCs/SyndicateD_Lab
+18264
+#
+`
+`HIRU
+Enemy1_npc
+18241
+#
+``YATA
+Enemy3_npc
+18242
+#
+`
+```NAROD
+Enemy4_npc
+18243
+#
+`
+```GROZDE
+Enemy5_npc
+18244
+#
+`
+``` TRONDRO
+Enemy2_npc
+18245
+#
+`
+`
+`
+`quest pointer arrowX
+quest pointer arrowX-8
+`qax3
+991
+#
+`
+dselect
+9998886
+#
+`
+`
+`
+`
+`
+`
+Asteroid Wall
+12680
+동굴 벽
+`
+Asteroid Wall Down
+12681
+동굴 벽
+`
+Asteroid Wall Across
+12682
+동굴 벽
+`
+Asteroid Wall LR
+12683
+동굴 벽
+`
+Asteroid Wall Across
+12684
+동굴 벽
+`
+Asteroid Wall LL
+12685
+동굴 벽
+`
+Asteroid Wall Across
+12686
+동굴 벽
+`
+Asteroid Wall Junction LRU
+12687
+동굴 벽
+`
+Asteroid Wall Down
+12688
+동굴 벽
+`
+Asteroid Wall Down
+12689
+동굴 벽
+`
+Asteroid Wall UR
+12690
+동굴 벽
+`
+Asteroid Wall Junction UDL
+12691
+동굴 벽
+`
+Asteroid Wall UL
+12692
+동굴 벽
+`
+Asteroid Wall Junction UDR
+12693
+동굴 벽
+`
+Asteroid Wall Junction LRD
+12694
+동굴 벽
+`
+Asteroid Wall Junction
+12695
+동굴 벽
+`
+`
+`
+`
+`
+nuyuoutline
+12100
+#
+`
+Menger-Mouth Enzyme
+5151
+멩거입 효소
+`
+`
+`
+`
+`
+`
+Icon_GrapplerL
+22380
+그래플러 총
+`
+Icon_Pistol1L
+22381
+권총
+`
+Icon_Rifle1L
+22382
+소총
+`
+Icon_Shotgun1L
+22383
+산탄총
+`
+Icon_SMG1L
+22384
+SMG
+`
+Icon_Sniper1L
+22385
+저격총
+`
+Icon_Blaster1L
+22386
+블래스터
+`
+Icon_Beamer1L
+22387
+빔건
+`
+Icon_CloudGun1L
+22388
+클라우드건
+`
+Icon_Launcher1L
+22389
+런처
+`
+Icon_Knife1L
+22391
+Knife
+`
+Icon_Sword1L
+22392
+Sword
+`
+Icon_Hammer1L
+22393
+Hammer
+`
+Icon_Eviscerator1L
+22394
+Eviscerator
+``
+Icon_Zapper1L
+22395
+Zapper
+`
+Icon_ExtractorL
+22396
+Extractor
+`
+`
+` THESE are the PORTRAITS of sick/diseased/plastic surgery-messed captains:
+` they are these large numbers because the internal stuff lists them as 100,001, then adds 12100 to them.
+`Portraits/Portrait_Sick_01
+`112101
+`#
+```
+`Portraits/Portrait_Sick_02
+`112102
+`#
+```
+`Portraits/Portrait_Sick_03
+`112103
+`#
+````
+``	Portraits/Portrait_Whitespace
+`Portraits/Portrait_Sick_11
+`112111
+`#
+``
+``
+`` THESE ARE THE "WALKING CAPTAIN" OF THE SICK/DISEASED IMAGES:
+`Captains/Sick_01
+`100001
+`#
+```
+`Captains/Sick_02
+`100002
+`#
+```
+`Captains/Sick_03
+`100003
+`#
+``
+`
+`
+`
+`
+` ` THESE ARE ALSO "ZONE CHANGES": 24991-24999
+`
+`
+`  immune/weak/critical 30691,30692,30699
+`
+Hit_Immune_Hit
+30691
+#
+`
+Hit_Weak_Hit
+30692
+#
+`
+Hit_Critical_Hit
+30699
+#
+`
+`
+`
+`
+`` you can't go any lower in this number range!
+`Some Window Overlay
+`NewInstallSubWindow2
+`12696
+`#
+`
+``
+Built-in_Device_Frame
+12699
+#
+`
+`
+`	
+`Transit/Transit_Structures1
+`26600
+`#
+`Transit/Transit_Structures2
+`26601
+`#
+`Transit/Transit_FHC1
+`26605
+`#
+``
+`Transit/Transit_FHC2
+`26606
+`#
+`
+`leaving room for desert
+`26610
+`#
+``
+`leaving room for desert
+`26611
+`#
+`
+`Transit/Transit_Canyon1
+`26615
+`#
+``
+`Transit/Transit_Canyon2
+`26616
+`#
+``
+`Transit/Transit_Island1
+`26620
+`#
+``
+`Transit/Transit_Island2
+`26621
+`#
+``
+`Transit/Transit_Jungle1
+`26625
+`#
+``
+`Transit/Transit_Jungle2
+`26626
+`#
+``
+`Transit/Transit_Swamp1
+`26630
+`#
+``
+`Transit/Transit_Swamp2
+`26631
+`#
+```
+``space for INHOSPITABLE
+`26635
+`#
+``
+`space for INHOSPITABLE
+`26636
+`#
+``
+`Transit/Transit_Gladed1
+`26640
+`#
+``
+`Transit/Transit_Gladed2
+`26641
+`#
+``
+`
+`266
+`#
+``
+`
+`26700-26799 = NON-PLANET TRANSIT IMAGES
+`
+`
+`
+`
+`
+Sign_101
+9201
+건축가 사무실
+`
+Sign_102
+9202
+도서관
+`
+Sign_103
+9203
+카지노
+`
+Sign_104
+9204
+장교 라운지
+`
+Sign_105
+9205
+관광청
+`
+Sign_106
+9206
+식물학 연구실
+`
+Sign_107
+9207
+데이터 브로커
+`
+Sign_108
+9208
+고철 상인
+`
+Sign_109
+9209
+최고의 나
+`
+Sign_110
+9210
+부품 수집광
+`
+Sign_111
+9211
+가젯 장인
+`
+Sign_112
+9212
+부티크
+`
+Sign_113
+9213
+가상 대학
+`
+Sign_114
+9214
+행성 지리학자 사무실
+`
+Sign_115
+9215
+운송 안전 위원회
+`
+Sign_116
+9216
+함선 튜너
+`
+Sign_117
+9217
+총기 밀매상
+`
+Sign_118
+9218
+장치 상인
+`
+Sign_119
+9219
+슈트를 입어라!
+`
+Sign_120
+9220
+폭탄 투하!
+`
+Sign_121
+9221
+사이버네틱스 상점
+`
+Sign_122
+9222
+바이러스학자 연구실
+`
+Sign_123
+9223
+결투가 용품점
+`
+Sign_124
+9224
+은하 교통 관리국
+`
+Sign_125
+9225
+우주인의 쉼터
+`
+Sign_126
+9226
+스타파이터스!
+`
+Sign_127
+9227
+핵심 시스템
+``
+Sign_128
+9228
+홀로페인트 기술자
+`
+````
+`Sign_129
+`9229
+`Botanical Society
+`
+``
+Sign_133
+9233
+설계도 판매상
+``
+``
+Sign_134
+9234
+조선공
+`
+`
+`
+`
+` ==========================================================
+`				NEW IMAGES FOR 1.8
+` ==========================================================
+`
+`
+`
+Missile_Ab
+3377501
+#
+`
+Missile_Bb
+3377502
+#
+``
+Missile_Cb
+3377503
+#
+``
+Missile_F2b
+3377504
+#
+```
+Shot_Minelayer
+3377507
+#
+`
+`
+`
+Shot_RepulsorWave-c
+3377511
+#
+``
+Shot_InertiaProjector-c
+3377512
+#
+``
+Shot_EntropyField-e
+3377513
+#
+```
+shot_GrapplerBeam-b
+3377514
+#
+```
+Shot_PulseLaser-c
+3377515
+#
+```
+Shot_RocketBattery
+3377516
+#
+`
+Shot_BlisterBeam-e
+3377517
+#
+`
+Shot_ShieldDepleter-b
+3377518
+#
+`
+Shot_SingularityLauncher
+3377519
+#
+``
+Shot_ICMb
+3377520
+#
+```
+shot_ProfiteeringBeam
+3377521
+#
+`
+Shot_ParticleBeam
+3377522
+#
+`
+`
+Shot_GreenLaser
+3377523
+#
+`
+`
+`
+`
+Shield Hit Alien B
+3377591
+#
+`
+`
+TargetAnim
+3377599
+#
+``
+`
+`
+`
+`
+Btn1_Off
+3388803
+#
+`
+`
+`
+``
+`
+` ==========================================================
+`		     NEW IMAGES FOR 1.9
+` ==========================================================
+`
+`
+`
+`
+`
+`
+` UINew/ClassicUI_SidePanel_Dlg1
+`UINew/NewClassicUI_Dlg3
+`32000
+`#
+`
+`	UINew/Message_Dlg1
+`	32001
+`	#
+`
+UINew/Main_TopBar_Dlg1c
+32001
+#
+`
+UINew/Message_Open_Dlg1
+32002
+#
+`	UINew/ShipPanel_Dlg1
+`	32003
+`	#
+`
+`	UINew/Main_TopBar_Dlg2c
+`	32003
+`	#
+`
+UINew/Target_Dlg1
+32004
+#
+UINew/Weapons_Dlg1
+32005
+#
+`UINew/Map_Dlg2
+`32006
+`#
+`
+UINew/Btn1_Off
+32007
+#
+UINew/Btn1_On
+32008
+#
+UINew/Sbutton_Close_Off
+32009
+#
+UINew/Sbutton_Close_On
+32010
+#
+`
+`
+UINew/NewClassicUI_Dlg3
+32011
+#
+`
+` this is the classic UI for SPACE:
+UINew/NewClassicUI_Dlg4
+32012
+#
+`
+` this is the NEW SPACE UI that includes a CARGO BAR:
+UINew/Main_TopBar_Dlg1d
+32013
+#
+`
+UINew/Big_Panel_Dlg1c
+32014
+#
+`
+UINew/backfill
+32015
+#
+`
+`UINew/thebigempty
+`32016
+`#
+`
+`
+`
+UINew/little_icon_PD
+32021
+#
+`
+UINew/little_icon_SHE
+32022
+#
+`
+UINew/little_icon_HUL
+32023
+#
+`
+UINew/little_icon_CRW
+32024
+#
+`
+UINew/little_icon_SUP
+32025
+#
+`
+UINew/little_icon_SPD
+32026
+#
+`
+UINew/little_icon_OXY
+32027
+#
+`
+UINew/little_icon_HP
+32028
+#
+`
+UINew/little_icon_PCT
+32029
+#
+`
+UINew/little_icon_CAR
+32030
+#
+``
+UINew/little_icon_GRD
+32031
+#
+`
+UINew/Btn2_Off
+32037
+#
+UINew/Btn2_HI
+32038
+#
+UINew/Btn2_On
+32039
+#
+`
+` ` NOTE: THESE NUMBERS ARE IN THE 34K, while the above are in the 32K.
+`
+UINew/UI_Scrollbar_track
+34009
+#
+`
+UINew/UI_Scrollbar_grip
+34010
+#
+`
+UINew/Ship_Loadout_Dlg2
+32041
+#
+`
+`
+UINew/LP_Loadout_Dlg1
+32042
+#
+`
+UINew/Ship_Loadout_Dlg3
+32043
+#
+``
+UINew/Officer_highlight-B
+32044
+#
+`
+`
+`
+UINew/Alert_Panel_New
+32045
+#
+``
+UINew/Alert_YN_New
+32046
+#
+``
+UINew/Alert_ColorBar_New
+32047
+#
+`
+`
+` THESE SHOULD BE USED FOR THE FULL BUTTON
+` WHERE THE SHORTCUT KEY WINDOW DOESN'T EXIST:
+`
+UINew/Btn2_Off
+32048
+#
+UINew/Btn2_On
+32049
+#
+`
+``
+` ` the 3 minimap mini-map windows:
+`
+UINew/Map_Dlg1
+32050
+#
+`
+UINew/Map_Dlg2
+32052
+#
+`
+`
+`
+UINew/Ship_Loadout_Dlg2-B
+32053
+#
+`
+`
+UINew/Ship_Loadout_Dlg3-B
+32055
+#
+``
+`
+`
+UINew/Btn3_Off
+32058
+#
+UINew/Btn3_On
+32059
+#
+`
+`
+``
+UINew/Ship_Loadout_Dlg2-C
+32061
+#
+`
+UINew/Ship_Loadout_Dlg2-B-C
+32062
+#
+`
+UINew/Ship_Loadout_Dlg3-C
+32063
+#
+`
+UINew/Ship_Loadout_Dlg3-B-C
+32064
+#
+``
+`Cryo-Chamber Complete
+`32065
+`#
+``
+`
+UINew/OutOfSupplies
+32080
+#
+````
+`
+UINew/HireNOCrew
+32081
+#
+``
+UINew/HireFullCrew
+32082
+#
+`
+UINew/HireOfficer
+32083
+#
+``
+UINew/QuestAvailable
+32084
+#
+`
+`
+Bkg_HiLi_8x8-e
+32091
+#
+Bkg_HiLi_8x8-f
+32092
+#
+`
+lightgray8x8
+32093
+#
+``
+a kind of bkg
+32098
+#
+```
+Quit
+32099
+#
+`
+`
+`
+````````````````````````UINew/areas-divided-revamp
+UINew/NewGame_Setup_Bkg4
+32100
+#
+`
+`
+UINew/ShipSelect_Underlay5
+32101
+#
+`
+``````
+UINew/PortraitSelect_Underlay3B
+32102
+#
+``````
+``
+``````
+UINew/ShipSelect_Bkg-B3
+32103
+#
+``````
+`UINew/ShipSelect_Bkg-B5
+UINew/ShipSelect_Bkg-B7
+32104
+#
+``````
+``
+UINew/2line-window-B
+32105
+#
+``````
+UINew/2line-window-D
+32106
+#
+```````
+UINew/ShipSelect_Underlay5-X
+32107
+#
+`
+`````````````
+UINew/ButtonBlocker
+32108
+#
+`
+``````
+`
+UINew/ShipSelect_Bkg
+32109
+#
+`
+UINew/ClassSkill_Frame4
+32111
+#
+`
+UINew/Division_Frame3
+32112
+#
+``
+UINew/Cheat_Off_Btn1
+32118
+#
+```
+UINew/Cheat_On_Btn1
+32119
+#
+`
+````
+UINew/CPG_UnLocked_C
+32121
+#
+`````
+UINew/CPG_Locked_B
+32122
+#
+`````
+UINew/CPG_ArrowLeft2
+32123
+#
+`````
+UINew/CPG_ArrowLeft1
+32124
+#
+`````
+UINew/CPG_ArrowRight2
+32125
+#
+`````
+UINew/CPG_ArrowRight1
+32126
+#
+`
+`
+UINew/QuestAlert_Panel_Clean
+32127
+#
+`
+`
+`UINew/
+`3212
+`#
+`````
+`
+`````     
+`
+```
+`UINew/SkillBar_Big_Left
+`32141
+`#
+````
+UINew/SkillBar_Big_Mid
+32142
+#
+````
+`UINew/SkillBar_Big_Right
+`32143
+`#
+````
+`UINew/SkillBar_Small_Left
+`32144
+`#
+````
+UINew/SkillBar_Small_Mid
+32145
+#
+````
+`
+````
+UINew/SkillBar_Tiny_Mid
+32146
+#
+````
+`
+`UINew/SkillBar_Small_Right
+`32146
+`#
+`
+UINew/SkillBar_Tex_Mid_C
+32147
+#
+`
+``
+`
+UINew/VictoryWindow
+32148
+#
+```
+`
+UINew/DeathScreenHighlight
+32149
+#
+`
+```
+`
+`Smuggler
+`32191
+`#
+`
+`Bounty Hunter
+`32192
+`#
+`
+`
+`
+UINew/SYDLC
+32197
+#
+`
+``````
+UINew/Coming Soon
+32198
+#
+`
+```
+UINew/QuestionMark
+32199
+#
+`
+``
+`
+StatsIcons/Stats_Hull
+32201
+#
+StatsIcons/Stats_Speed
+32202
+#
+StatsIcons/Stats_Evasion
+32203
+#
+StatsIcons/Stats_Crew
+32204
+#
+StatsIcons/Stats_Cargo
+32205
+#
+StatsIcons/Stats_Supplies
+32206
+#
+`
+StatsIcons/Stats_TurnsPlayed
+32207
+#
+StatsIcons/Stats_TimePlayed
+32208
+#
+StatsIcons/Stats_Terrain
+32209
+#
+StatsIcons/Stats_Terra
+32210
+#
+StatsIcons/Stats_Schematics
+32211
+#
+StatsIcons/Stats_Salvaged
+32212
+#
+StatsIcons/Stats_Quests
+32213
+#
+StatsIcons/Stats_ModeNormal
+32214
+#
+StatsIcons/Stats_PermaDeath
+32215
+#
+`
+StatsIcons/Stats_DifficultyEasy
+32216
+#
+StatsIcons/Stats_DifficultyMedium
+32217
+#
+StatsIcons/Stats_DifficultyHard
+32218
+#
+StatsIcons/Stats_DifficultyInsane
+32219
+#
+`
+StatsIcons/Stats_Firax
+32220
+#
+StatsIcons/Stats_Fame
+32221
+#
+StatsIcons/Stats_Infamy
+32222
+#
+StatsIcons/Stats_Effects
+32223
+#
+StatsIcons/Stats_Disease
+32224
+#
+StatsIcons/Stats_Data
+32225
+#
+StatsIcons/Stats_Credits
+32226
+#
+StatsIcons/Stats_Crafting
+32227
+#
+StatsIcons/Stats_Crafted
+32228
+#
+StatsIcons/Stats_Codes
+32229
+#
+StatsIcons/Stats_CheatsOn
+32230
+#
+StatsIcons/Stats_CheatsOff
+32231
+#
+StatsIcons/Stats_Asteroids
+32232
+#
+StatsIcons/Stats_Artifacts
+32233
+#
+StatsIcons/Stats_Achievements
+32234
+#
+`
+StatsIcons/Stats_AwayTeam
+32235
+#
+``
+StatsIcons/Stats_AwayTeamLevel
+32236
+#
+``
+StatsIcons/Stats_Planets
+32237
+#
+``
+StatsIcons/Stats_Caves
+32238
+#
+``
+StatsIcons/Stats_CaveDepth
+32239
+#
+``
+StatsIcons/Stats_Wrecks
+32240
+#
+```
+StatsIcons/Stats_SpacePowers
+32241
+#
+```
+StatsIcons/Stats_AwayTeamSpeed
+32242
+#
+```
+StatsIcons/Stats_Pylons
+32243
+#
+`
+StatsIcons/station entrance 3
+32244
+#
+`
+``
+```
+````
+StatsIcons/Stats_HiSec
+32245
+#
+`
+StatsIcons/Stats_Deaths
+32246
+#
+```````
+StatsIcons/Stats_EnemyShipKills
+32247
+#
+`
+StatsIcons/Stats_Kills
+32248
+#
+```
+``
+StatsIcons/Stats_ShipwrecksTowed
+32249
+#
+```
+``
+StatsIcons/Stats_CSU1
+32250
+#
+```
+```
+StatsIcons/Stats_EscapePods
+32251
+#
+``````
+StatsIcons/Stats_Smuggle
+32252
+#
+```
+```````
+StatsIcons/Stats_SYToken
+32253
+#
+``````
+```````
+StatsIcons/Stats_LevelUp
+32254
+#
+```
+` 
+StatsIcons/Stats_DiseaseBlight
+32258
+#
+`
+StatsIcons/SchemMarker
+32259
+#
+`
+`MWG400
+`MWG480
+MWG300b
+32301
+#
+`
+`sector-mapper8x8
+sector-mapper1319
+32302
+#
+`
+`
+ToggleHelmets
+32310
+#
+`
+`
+UINew/STFX_OnFire
+32311
+#
+UINew/STFX_Poison
+32312
+#
+UINew/STFX_Energy
+32313
+#
+UINew/STFX_OxyLeak
+32314
+#
+UINew/STFX_Blinded
+32315
+#
+UINew/STFX_Feared
+32316
+#
+UINew/STFX_Confused
+32317
+#
+UINew/STFX_Incubating
+32318
+#
+`
+```
+UINew/STFX_Shuttle
+32321
+#
+``` ` envirodam
+UINew/STFX_EVDmg
+32322
+#
+```
+UINew/STFX_Cover
+32323
+#
+````
+UINew/STFX_WpnRdy
+32324
+#
+`
+``
+````
+UINew/STFX_WeakBlister
+32325
+#
+`````
+UINew/STFX_WeakCrit
+32326
+#
+`````
+UINew/STFX_PDCD
+32327
+#
+``
+UINew/STFX_RedAlert
+32328
+#
+`
+`
+UINew/STFX_NotSeen
+32329
+#
+`
+`
+UINew/STFX_DustRegen2
+32330
+#
+`
+`
+UINew/STFX_Peace-B
+32331
+#
+``
+UINew/STFX_Healing
+32332
+#
+`
+UINew/STFX_Inspired
+32333
+#
+`
+``
+UINew/STFX_Blight
+32334
+#
+`
+`
+whitesplosion_1
+32401
+#
+whitesplosion_2
+32402
+#
+whitesplosion_3
+32403
+#
+whitesplosion_4
+32404
+#
+whitesplosion_5
+32405
+#
+whitesplosion_4
+32406
+#
+whitesplosion_3
+32407
+#
+whitesplosion_2
+32408
+#
+whitesplosion_1
+32409
+#
+`
+` ` these mainly go by SLOT:
+UINew/Missing_Weapon
+32421
+#
+`
+UINew/Missing_Shield
+32424
+#
+`
+UINew/Missing_Armor
+32425
+#
+`
+UINew/Missing_Sensors
+32426
+#
+`
+UINew/Missing_Engine
+32427
+#
+`
+UINew/Missing_Warp
+32428
+#
+`
+UINew/Missing_Reactor
+32429
+#
+`
+UINew/Missing_Ranged
+32430
+#
+``
+UINew/Missing_Spacesuit
+32431
+#
+````
+UINew/Missing_Ship_Device
+32432
+#
+````
+UINew/Missing_AT_Device
+32438
+#
+``
+UINew/Missing_Grenade
+32439
+#
+````
+UINew/Missing_Melee
+32440
+#
+`
+`` 32450-32470 is TAKEN UP BY NEW SHIP EXPLOSION DEBRIS.
+`
+`
+`
+ShuttleSprite_72
+32492
+#
+`
+` bar separator
+`
+UINew/UI_Divider
+32500
+#
+`
+`
+RIP/zombierise1
+32501
+#
+``
+RIP/zombierise2
+32502
+#
+``
+RIP/zombierise3
+32503
+#
+``
+RIP/zombierise4
+32504
+#
+``
+RIP/zombierise5
+32505
+#
+``
+RIP/zombierise6
+32506
+#
+``
+RIP/zombierise7
+32507
+#
+`
+`
+`
+Gas Giants/GasPlanet31
+32599
+#
+`
+``
+`	UINew/somekindablocker
+`	32600
+`	#
+``
+`	32900-32915 IS RESERVED FOR NEW CRAFTING PARTS. <- i dont think this was ever done.
+`
+`
+``	`
+`	UINew/ShipBuild1
+`	32701
+`	#
+`	``
+`	UINew/ShipBuild2
+`	32702
+`	#
+`	``
+`	UINew/ShipBuild3
+`	32703
+`	#
+`	``
+`	UINew/DevBuild1
+`	32704
+`	#
+`	``
+`	UINew/DevBuild2
+`	32705
+`	#
+`	``
+`	UINew/DevBuild3
+`	32706
+`	#
+`	``
+`	UINew/AwayBuild1
+`	32707
+`	#
+`	``
+`	UINew/AwayBuild2
+`	32708
+`	#
+`	``
+`	UINew/AwayBuild3
+`	32709
+`	#
+`	`
+`
+Unavailable_Component
+12697
+#
+``
+Unavailable_Device
+12698
+#
+``
+`
+Away/LP_R_Closed1
+47001
+#
+``
+Away/LP_R_Closed2
+47002
+#
+``
+Away/LP_R_Closed3
+47003
+#
+``
+Away/LP_R_Closed4
+47004
+#
+``
+Away/LP_O_Closed1
+47011
+#
+``
+Away/LP_O_Closed2
+47012
+#
+``
+Away/LP_O_Closed3
+47013
+#
+``
+Away/LP_O_Closed4
+47014
+#
+``
+Away/LP_C_Closed1
+47021
+#
+``
+Away/LP_C_Closed2
+47022
+#
+``
+Away/LP_C_Closed3
+47023
+#
+``
+Away/LP_C_Closed4
+47024
+#
+`
+`
+`
+Prisoner_Pirate
+5161
+해적 포로
+``
+Prisoner_Redeye
+5162
+레드아이 포로
+``
+Prisoner_Merc
+5163
+용병 포로
+``
+Prisoner_Hiru
+5164
+히루 포로
+``
+Prisoner_Yata
+5165
+야타 포로
+``
+Prisoner_Narod
+5166
+나로드 포로
+``
+Prisoner_Grozde
+5167
+그로즈데 포로
+``
+Prisoner_Trondro
+5168
+트론드로 포로
+`
+Prisoner_Zasquat
+5169
+포획한 자스콰트
+`
+`
+`
+` these are shipwreck floor grids. these are the BASE IMAGES which are CONCAT'd with the current floor 
+` to give 49001-49006 , which are the actual displays.
+`
+Furniture/Grates/Deco_Floor_Grid1
+49901
+#
+`
+Furniture/Grates/Deco_Floor_Grid2
+49902
+#
+`
+Furniture/Grates/Deco_Floor_Grid3
+49903
+#
+`
+Furniture/Grates/Deco_Floor_Grid4
+49904
+#
+`
+Furniture/Grates/Deco_Floor_Grid5
+49905
+#
+`
+Furniture/Grates/Deco_Floor_Grid6
+49906
+#
+`
+`
+`
+`  37000-37999 were reserved for NEW SHIP COMPONENTS.
+` NEWWEP OCCUPIES THE FIRST 100
+`	next will come cloaks and shields at 400 
+` 
+` ` CLOAKS
+`
+ShipComponents/Cloak_Tactical_1
+37401
+#
+``
+ShipComponents/Cloak_Tactical_2
+37402
+#
+``
+ShipComponents/Cloak_Tactical_3
+37403
+#
+``
+ShipComponents/Cloak_Tactical_4
+37404
+#
+``
+ShipComponents/Cloak_Tactical_5
+37405
+#
+`
+`
+`
+ShipComponents/Cloak_Strategic_1
+37411
+#
+``
+ShipComponents/Cloak_Strategic_2
+37412
+#
+``
+ShipComponents/Cloak_Strategic_3
+37413
+#
+``
+ShipComponents/Cloak_Strategic_4
+37414
+#
+``
+ShipComponents/Cloak_Strategic_5
+37415
+#
+`
+` ` SHIELDS
+`
+ShipComponents/Shield_1
+37421
+#
+``
+ShipComponents/Shield_2
+37422
+#
+``
+ShipComponents/Shield_3
+37423
+#
+``
+ShipComponents/Shield_4
+37424
+#
+``
+ShipComponents/Shield_5
+37425
+#
+``
+ShipComponents/Shield_6
+37426
+#
+``
+ShipComponents/Shield_7
+37427
+#
+``
+ShipComponents/Shield_8
+37428
+#
+``
+ShipComponents/Shield_9
+37429
+#
+``
+ShipComponents/Shield_10
+37430
+#
+``
+ShipComponents/Shield_11
+37431
+#
+``
+ShipComponents/Shield_12
+37432
+#
+``
+ShipComponents/Shield_13
+37433
+#
+`
+`
+` ` SENSORS
+`
+` ` NORMAL 41-45
+ShipComponents/Sensor_Normal_1
+37441
+#
+``
+ShipComponents/Sensor_Normal_2
+37442
+#
+``
+ShipComponents/Sensor_Normal_3
+37443
+#
+``
+ShipComponents/Sensor_Normal_4
+37444
+#
+`
+``` LONG 46-50
+ShipComponents/Sensor_Long_1
+37446
+#
+````
+ShipComponents/Sensor_Long_2
+37447
+#
+````
+ShipComponents/Sensor_Long_3
+37448
+#
+````
+ShipComponents/Sensor_Long_4
+37449
+#
+`
+`
+`````
+ShipComponents/Sensor_Planetary_1
+37451
+#
+``````
+ShipComponents/Sensor_Planetary_2
+37452
+#
+``````
+ShipComponents/Sensor_Planetary_3
+37453
+#
+``````
+ShipComponents/Sensor_Planetary_4
+37454
+#
+`
+`
+``````
+ShipComponents/Sensor_Combat_1
+37456
+#
+```````
+ShipComponents/Sensor_Combat_2
+37457
+#
+```````
+ShipComponents/Sensor_Combat_3
+37458
+#
+```````
+ShipComponents/Sensor_Combat_4
+37459
+#
+`
+`
+` ` ENGINES
+`
+`
+ShipComponents/Engine_Normal_1
+37461
+#
+``
+ShipComponents/Engine_Normal_2
+37462
+#
+``
+ShipComponents/Engine_Normal_3
+37463
+#
+``
+ShipComponents/Engine_Normal_4
+37464
+#
+``
+ShipComponents/Engine_Normal_5
+37465
+#
+`
+`
+`
+ShipComponents/Engine_Maneuvering_1
+37466
+#
+``
+ShipComponents/Engine_Maneuvering_2
+37467
+#
+``
+ShipComponents/Engine_Maneuvering_3
+37468
+#
+`
+```
+ShipComponents/Engine_Afterburner_1
+37471
+#
+````
+ShipComponents/Engine_Afterburner_2
+37472
+#
+````
+ShipComponents/Engine_Afterburner_3
+37473
+#
+`
+`````
+ShipComponents/Engine_Efficient_1
+37476
+#
+``````
+ShipComponents/Engine_Efficient_2
+37477
+#
+``````
+ShipComponents/Engine_Efficient_3
+37478
+#
+`
+` ` ^ there is space left up there.
+`
+`
+` ` WARP DRIVES START 37500. 
+`
+`
+ShipComponents/Warp_Normal_1
+37501
+#
+``
+ShipComponents/Warp_Normal_2
+37502
+#
+``
+ShipComponents/Warp_Normal_3
+37503
+#
+`
+```
+ShipComponents/Warp_Long_1
+37506
+#
+````
+ShipComponents/Warp_Long_2
+37507
+#
+````
+ShipComponents/Warp_Long_3
+37508
+#
+`
+`
+`````
+ShipComponents/Warp_Rapid_1
+37511
+#
+``````
+ShipComponents/Warp_Rapid_2
+37512
+#
+``````
+ShipComponents/Warp_Rapid_3
+37513
+#
+`
+``````
+ShipComponents/Warp_Efficient_1
+37516
+#
+```````
+ShipComponents/Warp_Efficient_2
+37517
+#
+```````
+ShipComponents/Warp_Efficient_3
+37518
+#
+`
+`
+` ` NOTE: expensive warp drive is not an official "PARADIGM", it simply exists for those sold in stations and for the nice yellow background it has.
+`
+``````````
+ShipComponents/Warp_Expensive_1
+37521
+#
+```````````
+ShipComponents/Warp_Expensive_2
+37522
+#
+```````````
+ShipComponents/Warp_Expensive_3
+37523
+#
+```````````
+ShipComponents/Warp_Expensive_4
+37524
+#
+```````````
+ShipComponents/Warp_Expensive_5
+37525
+#
+`
+`
+```````
+ShipComponents/Reactor_Blue1
+37531
+#
+````````
+ShipComponents/Reactor_Blue2
+37532
+#
+````````
+ShipComponents/Reactor_Blue3
+37533
+#
+````````
+ShipComponents/Reactor_Blue4
+37534
+#
+````````
+ShipComponents/Reactor_Blue5
+37535
+#
+`
+`
+`````````
+ShipComponents/Reactor_Purple1
+37536
+#
+``````````
+ShipComponents/Reactor_Purple2
+37537
+#
+``````````
+ShipComponents/Reactor_Purple3
+37538
+#
+``````````
+ShipComponents/Reactor_Purple4
+37539
+#
+``````````
+ShipComponents/Reactor_Purple5
+37540
+#
+`
+`
+```````````
+ShipComponents/Reactor_Green1
+37541
+#
+````````````
+ShipComponents/Reactor_Green2
+37542
+#
+````````````
+ShipComponents/Reactor_Green3
+37543
+#
+````````````
+ShipComponents/Reactor_Green4
+37544
+#
+````````````
+ShipComponents/Reactor_Green5
+37545
+#
+`
+`
+````````````
+ShipComponents/Reactor_Red1
+37546
+#
+`````````````
+ShipComponents/Reactor_Red2
+37547
+#
+`````````````
+ShipComponents/Reactor_Red3
+37548
+#
+`````````````
+ShipComponents/Reactor_Red4
+37549
+#
+`````````````
+ShipComponents/Reactor_Red5
+37550
+#
+`
+`
+``````````````
+ShipComponents/Reactor_Gold1
+37551
+#
+```````````````
+ShipComponents/Reactor_Gold2
+37552
+#
+```````````````
+ShipComponents/Reactor_Gold3
+37553
+#
+```````````````
+ShipComponents/Reactor_Gold4
+37554
+#
+```````````````
+ShipComponents/Reactor_Gold5
+37555
+#
+`
+`
+`
+MoveThatWayB
+3991
+#
+`
+`
+`
+AI-control-scheme-E-INVERSE2
+3996
+#
+`
+`
+`
+`	 
+`
+The Plague/Blight Particle
+607
+#
+`
+``
+`The Plague/BlightFireNew
+The Plague/Blightfire E
+609
+블라이트파이어
+``
+`
+`
+`
+`
+`
+
