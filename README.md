@@ -10,7 +10,7 @@
 
 ## 설치 (일반 사용자)
 
-1. [Releases](../../releases)에서 최신 `AI_한글패치_vX.X.X.zip`을 받습니다.
+1. [Releases](../../releases)에서 최신 `ApproachingInfinity-KR-vX.X.X.zip`을 받습니다.
 2. 압축을 풉니다. (게임 폴더 안에 풀어 두는 것을 권장)
 3. `1_한글패치_설치.bat`을 더블클릭합니다.
    - 게임 폴더를 자동으로 찾습니다. 못 찾으면 경로를 물어봅니다.
@@ -42,7 +42,7 @@
 python make_release.py v1.1.1
 ```
 
-결과물: `out/release/AI_한글패치_v1.1.1.zip`
+결과물: `out/release/ApproachingInfinity-KR-v1.1.1.zip`
 
 빌드 과정:
 

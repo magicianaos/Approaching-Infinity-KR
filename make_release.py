@@ -9,7 +9,7 @@
     game/demo/bytecode.byc      ← (선택) 데모판 media/bytecode.byc
 
 결과:
-    out/release/AI_한글패치_<버전>.zip
+    out/release/ApproachingInfinity-KR-<버전>.zip  (GitHub 첨부 파일 이름은 영어만 남으므로 영문 이름 사용)
 """
 import os, sys, shutil, subprocess, zipfile, hashlib
 
@@ -85,7 +85,7 @@ if KR_DEMO:
 run([PY, os.path.join('installer', 'mkpkg.py'), pk, KR_FULL] + ([KR_DEMO] if KR_DEMO else []), release=False)
 for f in ('1_한글패치_설치.bat', '2_원본_복구.bat', 'image_copies.tsv', 'image_delete.txt', '읽어주세요.txt', '글꼴_라이선스_OFL.txt'):
     shutil.copy(os.path.join(ROOT, 'installer', f), os.path.join(pk, f))
-final = os.path.join(OUT, 'release', 'AI_%s.zip' % name)
+final = os.path.join(OUT, 'release', 'ApproachingInfinity-KR-%s.zip' % VER)
 with zipfile.ZipFile(final, 'w', zipfile.ZIP_DEFLATED) as z:
     for f in sorted(os.listdir(pk)): z.write(os.path.join(pk, f), name + '/' + f)
 print('\n완료:', final)
